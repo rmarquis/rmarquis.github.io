@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
+
+_And where does the newborn go from here? The net is vast and infinite._
 
 ## Machine Learning
 
