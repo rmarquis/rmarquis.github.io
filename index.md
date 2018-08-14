@@ -1,37 +1,20 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rmarquis/rmarquis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Machine Learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Useful resources for Machine Learning and Deep Learning.
 
-### Markdown
+### Reference Books
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [All of Statistics - A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/), Wasserman, 2004
+- [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732), Bishop, 2006
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie et al's, 2009
+- [Machine Learning - A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Murphy, 2012
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), James, Witten, Hastie & Tibshirani, 2013
+- [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016
 
-```markdown
-Syntax highlighted code block
+### Courses
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmarquis/rmarquis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Stanford University - [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
+- deeplearning.ai - [Deep Learning Specialization](https://www.deeplearning.ai/) by Andrew Ng
+- Udacity - [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) by Google
