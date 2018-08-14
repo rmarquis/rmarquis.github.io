@@ -4,3 +4,26 @@ description: A Machine Learning, Android development and Chinese language enthus
 logo: /assets/img/logo.jpg
 show_downloads: false
 google_analytics: UA-10359235-13
+theme_settings:
+    # Icons
+  rss: false
+  email_address: "remy.marquis@gmail.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  gitlab:
+  github: "rmarquis"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "remymarquis"
+  wordpress:
+  youtube:
