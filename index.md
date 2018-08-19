@@ -18,5 +18,21 @@ Useful resources for Machine Learning and Deep Learning.
 ### Courses
 
 - Stanford University - [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
+  - Logistic Regression, Regularization
+  - Neural Networks
+  - Advice for Applying Machine Learning, Machine Learning System Design
+  - Support Vector Machines
+  - Unsupervised Learning, Dimensionality Reduction
+  - Anomaly Detection, Recommender Systems
+  - Large Scale Machine Learning
 - deeplearning.ai - [Deep Learning Specialization](https://www.deeplearning.ai/) by Andrew Ng
+  - Neural Networks and Deep Learning
+  - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - Structuring Machine Learning Projects
+  - Convolutional Neural Networks
+  - Sequence Models
 - Udacity - [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) by Google
+  - From Machine Learning to Deep Learning
+  - Deep Neural Networks
+  - Convolutional Neural Networks
+  - Deep Models for Text and Sequences
