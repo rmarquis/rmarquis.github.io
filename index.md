@@ -2,20 +2,15 @@
 
 _And where does the newborn go from here? The net is vast and infinite._
 
-## Machine Learning
+## About me
+
+Engineer and Data scientist
+
+## About Machine Learning
 
 Useful resources for Machine Learning and Deep Learning.
 
-### Reference Books
-
-- [All of Statistics - A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/), Wasserman, 2004
-- [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732), Bishop, 2006
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie et al's, 2009
-- [Machine Learning - A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Murphy, 2012
-- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), James, Witten, Hastie & Tibshirani, 2013
-- [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016
-
-### Courses
+### Useful Courses
 
 - Stanford University - [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
   - Logistic Regression, Regularization
@@ -36,3 +31,12 @@ Useful resources for Machine Learning and Deep Learning.
   - Deep Neural Networks
   - Convolutional Neural Networks
   - Deep Models for Text and Sequences
+
+### Reference Books
+
+- [All of Statistics - A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/), Wasserman, 2004
+- [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732), Bishop, 2006
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie et al's, 2009
+- [Machine Learning - A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Murphy, 2012
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), James, Witten, Hastie & Tibshirani, 2013
+- [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016
