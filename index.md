@@ -4,7 +4,7 @@ _And where does the newborn go from here? The net is vast and infinite._
 
 ## About me
 
-Engineer and Data scientist
+A Machine Learning, Data Science and Chinese language enthusiast.
 
 ## About Machine Learning
 
