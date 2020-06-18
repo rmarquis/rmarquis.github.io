@@ -6,8 +6,8 @@ A Machine Learning, Data Science and Chinese language enthusiast.
 
 ## Specialization Certificates
 
-* [Deep Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/)
-* [AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/) - [Acclaim Badges](https://www.youracclaim.com/users/remy-marquis)
+* [Deep Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/46MFP45CUWMH)
+* [AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2CP6LZTVXSGC) - [Acclaim Badges](https://www.youracclaim.com/users/remy-marquis)
 
 ## About Machine Learning
 
