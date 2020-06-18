@@ -6,6 +6,11 @@ _And where does the newborn go from here? The net is vast and infinite._
 
 A Machine Learning, Data Science and Chinese language enthusiast.
 
+## Specialization Certificates
+
+* [Deep Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/)
+* [AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/) - [Acclaim Badges](https://www.youracclaim.com/users/remy-marquis)
+
 ## About Machine Learning
 
 Useful resources for Machine Learning and Deep Learning.
@@ -31,6 +36,13 @@ Useful resources for Machine Learning and Deep Learning.
   - Deep Neural Networks
   - Convolutional Neural Networks
   - Deep Models for Text and Sequences
+- IBM - [AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) by IBM
+  - Machine Learning with Python
+  - Scalable Machine Learning on Big Data using Apache Spark
+  - [Introduction to Deep Learning & Neural Networks with Keras
+  - [Deep Neural Networks with PyTorch
+  - [Building Deep Learning Models with TensorFlow
+  - [AI Capstone Project with Deep Learning
 
 ### Reference Books
 
