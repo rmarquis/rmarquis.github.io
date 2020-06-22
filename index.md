@@ -37,10 +37,10 @@ Useful resources for Machine Learning and Deep Learning.
 - IBM - [AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) by IBM
   - Machine Learning with Python
   - Scalable Machine Learning on Big Data using Apache Spark
-  - [Introduction to Deep Learning & Neural Networks with Keras
-  - [Deep Neural Networks with PyTorch
-  - [Building Deep Learning Models with TensorFlow
-  - [AI Capstone Project with Deep Learning
+  - Introduction to Deep Learning & Neural Networks with Keras
+  - Deep Neural Networks with PyTorch
+  - Building Deep Learning Models with TensorFlow
+  - AI Capstone Project with Deep Learning
 
 ### Reference Books
 
