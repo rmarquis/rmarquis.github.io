@@ -50,3 +50,4 @@ Useful resources for Machine Learning and Deep Learning.
 - [Machine Learning - A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Murphy, 2012
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), James, Witten, Hastie & Tibshirani, 2013
 - [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016
+- [Mathematics for Machine Learning](https://mml-book.github.io/), Deisenroth, Faisal, Ong, 2020
