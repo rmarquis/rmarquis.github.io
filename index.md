@@ -47,6 +47,10 @@ Useful resources for Machine Learning and Deep Learning.
   - Natural Language Processing with Probabilistic Models
   - Natural Language Processing with Sequence Models
   - Natural Language Processing with Attention Models
+- deeplearning.ai - [Generative Adversarial Networks Specialization](https://www.deeplearning.ai/) by Sharon Zhou
+  - Build Basic Generative Adversarial Networks (GANs)
+  - Build Better Generative Adversarial Networks (GANs)
+  - Apply Generative Adversarial Networks (GANs)
 
 ### Reference Books
 
