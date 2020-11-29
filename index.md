@@ -42,7 +42,7 @@ Useful resources for Machine Learning and Deep Learning.
   - Deep Neural Networks with PyTorch
   - Building Deep Learning Models with TensorFlow
   - AI Capstone Project with Deep Learning
-- deeplearning.ai - [Natural Language Processing Specialization](https://www.deeplearning.ai/) by Andrew Ng
+- deeplearning.ai - [Natural Language Processing Specialization](https://www.deeplearning.ai/) by Younes Bensouda Mourri and Łukasz Kaiser
   - Natural Language Processing with Classification and Vector Spaces
   - Natural Language Processing with Probabilistic Models
   - Natural Language Processing with Sequence Models
