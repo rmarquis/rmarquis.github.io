@@ -21,7 +21,8 @@ Useful resources for Machine Learning and Deep Learning.
 A few projects I worked on:
 
 - Predictive models and anomaly detection
-  - Implementation of various models using classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Elaboration of clustering algorithms and content-based and collaborative filtering recommender system.
+  - Implementation of various models using classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM.
+  - Elaboration of clustering algorithms for content-based and collaborative filtering recommender system.
   - Development of an Anomaly detection system using simple multivariate Gaussian.
 
 - Music generation
@@ -36,7 +37,8 @@ A few projects I worked on:
   - Face recognition using Convolutional Neural Network with triplet loss for fast performance.
 
 - Sentiment analysis and Duplicate detection
-  - Implementation of Natural Language Process to gauge sentiment using Siamese networks in a review platform, and detection of duplicate questions.
+  - Implementation of Natural Language Process to gauge sentiment using Siamese networks in a review platform.
+  - Recognition of question duplicates using Siamese networks.
 
 - Text summarization and Question answering
   - Implementation of Natural Language Processing Transformer architecture to create a tool that generates text summaries.
