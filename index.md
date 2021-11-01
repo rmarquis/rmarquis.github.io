@@ -86,6 +86,11 @@ A few projects I worked on:
   - Build Basic Generative Adversarial Networks (GANs)
   - Build Better Generative Adversarial Networks (GANs)
   - Apply Generative Adversarial Networks (GANs)
+- deeplearning.ai - [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/) by Andrew Ng, Robert Crowe, Laurence Moroney
+  - Introduction to Machine Learning in Production
+  - Machine Learning Data Lifecycle in Production
+  - Machine Learning Modeling Pipelines in Production
+  - Deploying Machine Learning Models in Production
 
 ### Reference Books
 
