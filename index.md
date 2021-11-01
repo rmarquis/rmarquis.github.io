@@ -101,3 +101,13 @@ A few projects I worked on:
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), James, Witten, Hastie & Tibshirani, 2013
 - [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016
 - [Mathematics for Machine Learning](https://mml-book.github.io/), Deisenroth, Faisal, Ong, 2020
+
+## About Computer Sciences
+
+Useful resources for Computer Sciences.
+
+### Reference Books
+
+A CS Primer for self taught programmers:
+- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery, 2016
+- [The Imposter's Handbook, Season 2](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery & Scott Hanselman, 2018
