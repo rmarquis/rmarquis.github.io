@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 _And where does the newborn go from here? The net is vast and infinite._
 
 ## About me
