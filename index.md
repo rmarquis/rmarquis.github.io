@@ -8,11 +8,7 @@ _And where does the newborn go from here? The net is vast and infinite._
 
 A Machine Learning, Data Science and Chinese language enthusiast.
 
----
-layout: default
----
+## Resources
 
-## Sections
-
-* [Machine Learning](./ml.html): Useful resources for Machine Learning and Deep Learning.
-* [Computer Sciences](./cs.html): Useful resources for Computer Sciences.
+* [Machine Learning](./ml.html): useful resources for Machine Learning and Deep Learning.
+* [Computer Sciences](./cs.html): useful resources for Computer Sciences.
