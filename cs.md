@@ -18,3 +18,7 @@ Kotlin:
 - [Kotlin Coroutines by Tutorials](https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/), Nishant Srivastava & Filip Babić, 2nd Edition, 2019
 - [Data Structures and Algorithms in Kotlin](https://www.raywenderlich.com/books/data-structures-algorithms-in-kotlin/), Irina Galata & Márton Braun, 2nd Edition, 2021
 - [Hands-on Design Patterns with Kotlin](https://www.packtpub.com/product/hands-on-design-patterns-with-kotlin/9781788998017/), Alexey Soshin, 2018
+
+### General
+
+- [The Way Of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Unit Testing Wisdom From An Ancient Software Start-up, Alberto Savoia, 2007
