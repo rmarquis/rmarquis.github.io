@@ -14,6 +14,22 @@ Useful resources for Machine Learning and Deep Learning.
 * [Deep Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/46MFP45CUWMH)
 * [Machine Learning Certificate](https://github.com/rmarquis/coursera-machinelearning/blob/master/ML-certificate.pdf)
 
+### References
+
+#### General
+
+- [Rules of Machine Learning: Best Practices for ML Engineering](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf), Zinkevich, 2016
+#### Books
+
+- [All of Statistics - A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/), Wasserman, 2004
+- [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732), Bishop, 2006
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie et al's, 2009
+- [Machine Learning - A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Murphy, 2012
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), James, Witten, Hastie & Tibshirani, 2013
+- [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016
+- [Mathematics for Machine Learning](https://mml-book.github.io/), Deisenroth, Faisal, Ong, 2020
+
+
 ### Projects
 
 A few projects I worked on:
@@ -89,13 +105,3 @@ A few projects I worked on:
   - Machine Learning Data Lifecycle in Production
   - Machine Learning Modeling Pipelines in Production
   - Deploying Machine Learning Models in Production
-
-### Reference Books
-
-- [All of Statistics - A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/), Wasserman, 2004
-- [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732), Bishop, 2006
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie et al's, 2009
-- [Machine Learning - A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Murphy, 2012
-- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), James, Witten, Hastie & Tibshirani, 2013
-- [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016
-- [Mathematics for Machine Learning](https://mml-book.github.io/), Deisenroth, Faisal, Ong, 2020
