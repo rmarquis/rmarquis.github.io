@@ -19,6 +19,7 @@ Useful resources for Machine Learning and Deep Learning.
 #### General
 
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf), Zinkevich, 2016
+
 #### Books
 
 - [All of Statistics - A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/), Wasserman, 2004
