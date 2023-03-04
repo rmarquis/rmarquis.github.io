@@ -1,20 +1,17 @@
 ---
 layout: default
+permalink: /ml
 ---
 
-## About Machine Learning
+**[Home](/) >> Machine Learning**
 
-Useful resources for Machine Learning and Deep Learning.
+## Machine Learning
+
+Useful resources for Machine Learning and Statistics.
 
 ### Specialization Certificates
 
-See [Certifications](cert.html)
-
-* [Generative Adversarial Networks Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/VMRKG3EYJRNU)
-* [Natural Language Processing Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/J36RF5DGX9EH)
-* [IBM AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2CP6LZTVXSGC) - [Acclaim Badges](https://www.youracclaim.com/users/remy-marquis)
-* [Deep Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/46MFP45CUWMH)
-* [Machine Learning Certificate](https://github.com/rmarquis/coursera-machinelearning/blob/master/ML-certificate.pdf)
+See [Certifications](cert.html) for ML, DL, NLP, GANs, AI and MLops certificates.
 
 ### References
 

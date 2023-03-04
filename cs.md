@@ -1,8 +1,11 @@
 ---
 layout: default
+permalink: /cs
 ---
 
-## About Computer Sciences and Kotlin
+**[Home](/) >> Computer Sciences**
+
+## Computer Sciences
 
 Useful resources for Computer Sciences and the Kotlin programming language.
 

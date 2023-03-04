@@ -17,10 +17,7 @@ platforms:
 navigation:
   - name: Home
     link: ./
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
   - name: Computer Sciences
-    link: ./cs.html
+    link: ./cs
   - name: Machine Learning
-    link: ./ml.html
+    link: ./ml
