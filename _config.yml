@@ -1,31 +1,26 @@
-#theme: jekyll-theme-minimal
-remote_theme: "rmarquis/minimal"
+#theme: jekyll-theme-minimalistic
+remote_theme: "rmarquis/jekyll-theme-minimalistic"
 title: Remy Marquis
-description: A Machine Learning, Data Science and Chinese language enthusiast.
 logo: /assets/img/logo.jpg
-show_downloads: false
-google_analytics: UA-10359235-13
-theme_settings:
-  # Icons
-  rss: false
-  email_address: "remy.marquis@gmail.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  gitlab:
-  github: "rmarquis"
-  gitee:
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter:
-  wordpress:
-  youtube:
+description: A Machine Learning, Data Science and Chinese language enthusiast.
+favicon: true
+color-scheme: auto
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/rmarquis
+  - name: Certifications
+    icon: <i class="fa-solid fa-award"></i>
+    link: ./certifications
+
+navigation:
+  - name: Home
+    link: ./
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Computer Sciences
+    link: ./cs.html
+  - name: Machine Learning
+    link: ./ml.html

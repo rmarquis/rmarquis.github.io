@@ -8,6 +8,8 @@ Useful resources for Machine Learning and Deep Learning.
 
 ### Specialization Certificates
 
+See [Certifications](cert.html)
+
 * [Generative Adversarial Networks Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/VMRKG3EYJRNU)
 * [Natural Language Processing Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/J36RF5DGX9EH)
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2CP6LZTVXSGC) - [Acclaim Badges](https://www.youracclaim.com/users/remy-marquis)
