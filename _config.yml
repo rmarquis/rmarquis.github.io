@@ -7,6 +7,9 @@ favicon: true
 color-scheme: auto
 
 platforms:
+  - name: remy.marquis@gmail.com
+    icon: <i class="fa-solid fa-envelope"></i>
+    link: mailto:remy.marquis@gmail.com
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/rmarquis
