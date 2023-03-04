@@ -11,7 +11,7 @@ Useful resources for Machine Learning and Statistics.
 
 ### Specialization Certificates
 
-See [Certifications](cert.html) for ML, DL, NLP, GANs, AI and MLops certificates.
+See [Certifications](./ct) for ML, DL, NLP, GANs, AI and MLops certificates.
 
 ### References
 

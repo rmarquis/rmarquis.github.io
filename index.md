@@ -8,9 +8,9 @@ _And where does the newborn go from here? The net is vast and infinite._
 
 A Machine Learning, Data Science and Chinese language enthusiast.
 
-* [ML Specialization Certificates](./ml)
+* [ML Specialization Certificates](./ct)
 
 ## Resources
 
-* [Machine Learning](./ml): useful resources for Machine Learning and Deep Learning.
 * [Computer Sciences](./cs): useful resources for Computer Sciences.
+* [Machine Learning](./ml): useful resources for Machine Learning and Deep Learning.

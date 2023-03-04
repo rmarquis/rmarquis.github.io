@@ -13,7 +13,7 @@ platforms:
     link: https://github.com/rmarquis
   - name: Certifications
     icon: <i class="fa-solid fa-award"></i>
-    link: ./certifications
+    link: ./ct
 
 navigation:
   - name: Home

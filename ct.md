@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /certifications
+permalink: /ct
 ---
 
 **[Home](/) >> Certifications**
