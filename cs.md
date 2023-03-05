@@ -3,9 +3,7 @@ layout: default
 permalink: /cs
 ---
 
-**[Home](/) >> Computer Sciences**
-
-## Computer Sciences
+## [Home](/) >> Computer Sciences
 
 Useful resources for Computer Sciences and the Kotlin programming language.
 

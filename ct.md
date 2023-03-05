@@ -3,9 +3,7 @@ layout: default
 permalink: /ct
 ---
 
-**[Home](/) >> Certifications**
-
-## Certifications
+## [Home](/) >> Certifications
 
 My specialization certificates.
 

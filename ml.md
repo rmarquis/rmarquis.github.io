@@ -3,9 +3,7 @@ layout: default
 permalink: /ml
 ---
 
-**[Home](/) >> Machine Learning**
-
-## Machine Learning
+## [Home](/) >> Machine Learning
 
 Useful resources for Machine Learning and Statistics.
 
