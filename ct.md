@@ -10,8 +10,9 @@ My specialization certificates.
 ### [Generative Adversarial Networks Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/VMRKG3EYJRNU)
 
 **Coursera**, May 2021
-Approximately 3 months at 10 hours a week to complete
-3 courses
+
+3 courses, approximately 3 months at 10 hours a week to complete
+
 - Build Basic Generative Adversarial Networks (GANs)
 - Build Better Generative Adversarial Networks (GANs)
 - Apply Generative Adversarial Networks (GANs)
@@ -19,8 +20,9 @@ Approximately 3 months at 10 hours a week to complete
 ### [Natural Language Processing Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/J36RF5DGX9EH)
 
 **Coursera**, November 2020
-Approximately 4 months at 8 hours a week to complete
-4 courses
+
+4 courses, approximately 4 months at 8 hours a week to complete
+
 - Natural Language Processing with Classification and Vector Spaces
 - Natural Language Processing with Probabilistic Models
 - Natural Language Processing with Sequence Models
@@ -29,8 +31,9 @@ Approximately 4 months at 8 hours a week to complete
 ### [IBM AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/2CP6LZTVXSGC)
 
 **Coursera**, June 2020
-Approximately 8 months at 3 hours a week to complete
-6 courses
+
+6 courses, approximately 8 months at 3 hours a week to complete
+
 - Deep Neural Networks with PyTorch
 - AI Capstone Project with Deep Learning
 - Machine Learning with Python
@@ -41,8 +44,9 @@ Approximately 8 months at 3 hours a week to complete
 ### [Deep Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/46MFP45CUWMH)
 
 **Coursera**, June 2018
-Approximately 4 months at 8 hours a week to complete
-5 courses
+
+5 courses, approximately 4 months at 8 hours a week to complete
+
 - Sequence Models
 - Neural Networks and Deep Learning
 - Convolutional Neural Networks
@@ -52,8 +56,9 @@ Approximately 4 months at 8 hours a week to complete
 ### [Machine Learning Specialization Certificate](https://github.com/rmarquis/coursera-machinelearning/blob/master/ML-certificate.pdf)
 
 **Coursera**, June 2014
-Approximately 3 months at 5 hours a week to complete
-3 courses
+
+3 courses, approximately 3 months at 5 hours a week to complete
+
 - Supervised Machine Learning: Regression and Classification
 - Advanced Learning Algorithms
 - Unsupervised Learning, Recommenders, Reinforcement Learning
