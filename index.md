@@ -4,9 +4,7 @@ layout: default
 
 _And where does the newborn go from here? The net is vast and infinite._
 
-## About me
-
-A Machine Learning, Data Science and Chinese language enthusiast.
+## Certifications
 
 * [ML Specialization Certificates](./ct)
 
