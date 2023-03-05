@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Hi there 👋
+## Home
+
+Hi there 👋
 
 - 🔭 I am interested in Data Science and Machine Learning
 - 🧭 See my [ML / DL / AI Engineering / NLP / GANs specialization certificates](./ct)
