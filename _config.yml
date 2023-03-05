@@ -12,8 +12,8 @@ color-scheme: auto
 
 sidebar:
 - name: GitHub
-  icon: <i class="fa-brands fa-github"></i>
+  icon: fa-brands fa-github
   link: https://github.com/rmarquis
 - name: Certifications
-  icon: <i class="fa-solid fa-award"></i>
+  icon: fa-solid fa-award
   link: ./ct
