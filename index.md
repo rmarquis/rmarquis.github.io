@@ -6,14 +6,7 @@ layout: default
 
 Hi there 👋
 
-- 🔭 I am interested in Data Science and Machine Learning
-- 🧭 See my [ML / DL / AI Engineering / NLP / GANs specialization certificates](./ct)
-- 🌱 I am currently learning more about Machine Learning Operations (MLOps)
-- 🎯 I am working on strengthening Kotlin skills
-- 🎲 I like Chess and other strategy games
-- 💬 Ask me about mechanical watches
-- 📫 How to reach me: preferably by [e-mail](mailto:remy.marquis@gmail.com)
-- 😄 Fun fact: I am not affiliated with any perfum company
+You can read learn more about me on my [GitHub profile](https://github.com/rmarquis).
 
 ### Navigation
 
@@ -22,7 +15,7 @@ Hi there 👋
 
 ### Certificates
 
-* [Certifications](./ct): my specialization certificates.
+* [Certifications](./ct): ML specialization certificates.
 
 * * *
 
