@@ -12,6 +12,7 @@ You can read learn more about me on my [GitHub profile](https://github.com/rmarq
 
 * [Computer Sciences](./cs): useful resources for Computer Sciences.
 * [Machine Learning](./ml): useful resources for Machine Learning and Deep Learning.
+* [Shell](/sh): shell prompt customization.
 
 ### Certificates
 
