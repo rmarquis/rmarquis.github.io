@@ -15,9 +15,11 @@ Install starship.
 
     > winget install Starship.Starship
 
-Launch it from `<%USERPROFILE%>\Documents\PowerShell\Microsoft.PowerShell_profile.ps1` (`$PROFILE`):
+Launch it from `<%USERPROFILE%>\Documents\PowerShell\Microsoft.PowerShell_profile.ps1`:
 
-> Invoke-Expression (&starship init powershell)
+```
+Invoke-Expression (&starship init powershell)
+```
 
 #### WSL/Linux
 
@@ -25,7 +27,9 @@ Launch it from `<%USERPROFILE%>\Documents\PowerShell\Microsoft.PowerShell_profil
 
 Launch it from `~/.bashrc`:
 
-> eval "$(starship init bash)"
+```
+eval "$(starship init bash)"
+```
 
 ### Configure
 
