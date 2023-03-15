@@ -7,6 +7,13 @@ permalink: /sh
 
 Shell prompt customization, using [Starship](https://starship.rs/) as a minimal, fast and customizable cross-shell.
 
+## Prerequisites
+
+Install a [Nerd Font](https://www.nerdfonts.com/) and enable it in your terminal. For example, try:
+
+* the [Caskaydia Cove Nerd Font](https://www.nerdfonts.com/font-downloads), based on [Cascadia Code](https://learn.microsoft.com/en-us/windows/terminal/cascadia-code)
+* the [JetbrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads), based on [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
 ## Install
 
 ### Windows
