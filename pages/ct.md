@@ -7,6 +7,8 @@ permalink: /ct
 
 My specialization certificates.
 
+{:toc}
+
 ### [Generative Adversarial Networks Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/VMRKG3EYJRNU)
 
 **Coursera**, May 2021

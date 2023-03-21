@@ -7,6 +7,8 @@ permalink: /wsl
 
 Set up a WSL development environment using [Arch Linux](https://www.archlinux.org/).
 
+{:toc}
+
 ## Install WSL
 
 ### Enable Virtual Machine Platform

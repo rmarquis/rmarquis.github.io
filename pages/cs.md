@@ -7,6 +7,8 @@ permalink: /cs
 
 Useful resources for Computer Sciences and programming language.
 
+{:toc}
+
 ### Reference Books
 
 A CS Primer for self taught programmers:

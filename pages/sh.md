@@ -7,6 +7,8 @@ permalink: /sh
 
 Shell prompt customization, using [Starship](https://starship.rs/) as a minimal, fast and customizable cross-shell.
 
+{:toc}
+
 ## Prerequisites
 
 Install a [Nerd Font](https://www.nerdfonts.com/) and enable it in your terminal. For example, try:

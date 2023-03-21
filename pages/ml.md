@@ -7,6 +7,8 @@ permalink: /ml
 
 Useful resources for Machine Learning and Statistics.
 
+{:toc}
+
 ### Specialization Certificates
 
 See [Certifications](./ct) for ML, DL, NLP, GANs, AI and MLops certificates.
