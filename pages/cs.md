@@ -7,6 +7,7 @@ permalink: /cs
 
 Useful resources for Computer Sciences and programming language.
 
+* TOC
 {:toc}
 
 ### Reference Books

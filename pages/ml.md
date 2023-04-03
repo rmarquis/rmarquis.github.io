@@ -7,6 +7,7 @@ permalink: /ml
 
 Useful resources for Machine Learning and Statistics.
 
+* TOC
 {:toc}
 
 ### Specialization Certificates

@@ -7,6 +7,7 @@ permalink: /sh
 
 Shell prompt customization, using [Starship](https://starship.rs/) as a minimal, fast and customizable cross-shell.
 
+* TOC
 {:toc}
 
 ## Prerequisites

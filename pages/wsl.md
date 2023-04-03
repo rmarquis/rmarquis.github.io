@@ -7,6 +7,7 @@ permalink: /wsl
 
 Set up a WSL development environment using [Arch Linux](https://www.archlinux.org/).
 
+* TOC
 {:toc}
 
 ## Install WSL
