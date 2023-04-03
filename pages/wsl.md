@@ -203,6 +203,18 @@ To update packages:
     $ cd fakeroot-tcp/
     $ makepkg -si
 
+## Troubleshooting
+
+Known issues and resolution.
+
+### libcuda.so.1 is not a symbolic link
+
+Running `sudo pacman -Syu` results in a warning:
+
+    /sbin/ldconfig.real: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
+
+See [Microsoft/WSL#5548](https://github.com/microsoft/WSL/issues/5548).
+
 ## Resources
 
 ### WSL
