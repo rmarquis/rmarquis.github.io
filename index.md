@@ -20,9 +20,9 @@ Useful resources:
 * [WSL & Arch Linux](./wsl): set up a WSL development environment with Arch Linux.
 * [Shell customization](/sh): shell prompt customization with Starship.
 
-### Certificates
+### Certifications
 
-* [Certifications](./ct): ML specialization certificates.
+* [Certificates](./ct): ML specialization certificates.
 
 * * *
 

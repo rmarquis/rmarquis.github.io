@@ -3,12 +3,9 @@ layout: default
 permalink: /ct
 ---
 
-## [Home](/) >> Certifications
+## [Home](/) >> Certificates
 
 My specialization certificates.
-
-* TOC
-{:toc}
 
 ### [Generative Adversarial Networks Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/VMRKG3EYJRNU)
 
