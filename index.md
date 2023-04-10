@@ -14,6 +14,7 @@ Useful resources:
 
 * [Computer Sciences](./cs): useful resources for Computer Sciences.
 * [Machine Learning](./ml): useful resources for Machine Learning and Deep Learning.
+* [Kotlin](./kt): useful resoources specific to the Kotlin programming language.
 
 ### Guides
 

@@ -16,7 +16,7 @@ A CS Primer for self taught programmers:
 - [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery, 2016
 - [The Imposter's Handbook, Season 2](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery & Scott Hanselman, 2018
 
-Kotlin:
+[Kotlin](./kt):
 - [Atomic Kotlin](https://www.atomickotlin.com/), Bruce Eckel & Svetlana Isakova, 2021
 - [Kotlin Apprentice](https://www.raywenderlich.com/books/kotlin-apprentice/), Ellen Shapiro, Irina Galata & Victoria Gonda, 3rd Edition, 2021
 - [Kotlin Coroutines by Tutorials](https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/), Nishant Srivastava & Filip Babić, 2nd Edition, 2019
