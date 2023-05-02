@@ -18,6 +18,7 @@ See [Certifications](./ct) for ML, DL, NLP, GANs, AI and MLops certificates.
 
 #### General
 
+- [The Little Book of Deep Learning](https://fleuret.org/francois/), Fleuret, 2023
 - [Rules of Machine Learning: Best Practices for ML Engineering](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf), Zinkevich, 2016
 - [Awesome Data Science](https://github.com/academic/awesome-datascience)
 
