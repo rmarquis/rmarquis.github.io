@@ -159,6 +159,8 @@ Initialize the keyring of the `pacman` package manager:
     $ sudo pacman -Sy archlinux-keyring
     $ sudo pacman -Su
 
+## Post-installation
+
 ### Install an AUR helper
 
 Install an [AUR helper](https://wiki.archlinux.org/title/AUR_helpers) to easily access the [Arch User Repository](https://wiki.archlinux.org/title/Arch_User_Repository).
@@ -203,6 +205,14 @@ To update packages:
     $ auracle update
     $ cd fakeroot-tcp/
     $ makepkg -si
+
+### Get xdg-open to open a browser on Windows from WSL
+
+In `~/.zshrc`, add:
+
+```
+export BROWSER="pwsh.exe /C start"
+```
 
 ## Troubleshooting
 
