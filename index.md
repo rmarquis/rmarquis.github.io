@@ -24,7 +24,3 @@ Useful resources:
 ### Certifications
 
 * [Certificates](./ct): ML specialization certificates.
-
-* * *
-
-> _And where does the newborn go from here? The net is vast and infinite._
