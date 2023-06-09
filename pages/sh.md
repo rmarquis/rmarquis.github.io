@@ -33,15 +33,7 @@ Invoke-Expression (&starship init powershell)
 
 ### Linux/WSL
 
-#### Install Zsh
-
-The Bash shell does not support the right prompt, so we use [Zsh](https://wiki.archlinux.org/title/Zsh) instead.
-
-    $ sudo pacman -S zsh
-
-Make it the [default shell](https://wiki.archlinux.org/title/Command-line_shell#Changing_your_default_shell):
-
-    $ chsh -s /bin/zsh
+The Bash shell does not support the right prompt, so ensure to use [Zsh](https://wiki.archlinux.org/title/Zsh) instead.
 
 #### Install Starship
 

@@ -206,6 +206,18 @@ To update packages:
     $ cd fakeroot-tcp/
     $ makepkg -si
 
+
+#### Install Zsh
+
+Bash is the default command-line shell, but [Zsh](https://wiki.archlinux.org/title/Zsh) is a good
+alternative due to its improved interactive experience, richer scripting capabilities, extensibility.
+
+    $ sudo pacman -S zsh
+
+Make it the [default shell](https://wiki.archlinux.org/title/Command-line_shell#Changing_your_default_shell):
+
+    $ chsh -s /bin/zsh
+
 ### Get xdg-open to open a browser on Windows from WSL
 
 In `~/.zshrc`, add:
