@@ -252,6 +252,17 @@ wsl -e /bin/bash
 sudo ldconfig
 ```
 
+### Release allocation of disk space
+
+WSL does not release disk space back to the host OS automatically.
+
+To do it manually:
+
+```
+wsl.exe --shutdown
+optimize-vhd -Path C:\Linux\ext4.vhdx -Mode full
+```
+
 ## Resources
 
 ### WSL
