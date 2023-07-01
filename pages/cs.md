@@ -29,4 +29,5 @@ Software deployment:
 
 ### General
 
+- [How to Write a Git Commit Message](https://cbea.ms/git-commit/), Commit messages matter. Here's how to write them well, cbeams, 2014
 - [The Way Of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Unit Testing Wisdom From An Ancient Software Start-up, Alberto Savoia, 2007
