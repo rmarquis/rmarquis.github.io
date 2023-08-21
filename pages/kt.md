@@ -5,7 +5,7 @@ permalink: /kt
 
 ## [Home](/) >> Kotlin
 
-Useful resources for teh Kotlin programming language.
+Useful resources for the Kotlin programming language.
 
 * TOC
 {:toc}
