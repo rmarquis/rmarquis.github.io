@@ -17,6 +17,10 @@ Useful resources:
 * [Kotlin](./kt): useful resources specific to the Kotlin programming language.
 * [Zig](./zg): useful resources specific to the Zig programming language.
 
+### Chess
+
+* [Chess](./ch): useful resources for Chess programming
+
 ### Guides
 
 * [WSL & Arch Linux](./wsl): set up a WSL development environment with Arch Linux.
