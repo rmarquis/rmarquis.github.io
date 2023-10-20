@@ -14,6 +14,10 @@ Useful resources for Chess.
 
 * [Lichess.org](https://lichess.org) - Free Online Chess
 * [ChessFactor.com](https://chessfactor.com) - Courses
+* [OpeningTree.com](https://www.openingtree.com) - Analysis
+* [Chesstree.net](https://www.chesstree.net) - Analysis
+* [ChessCompass.com](https://www.chesscompass.com) - Analysis
+* [DecodeChess.com](https://decodechess.com/) - Analysis by AI
 
 ### Programming references
 
