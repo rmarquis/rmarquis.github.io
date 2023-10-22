@@ -12,12 +12,18 @@ Useful resources for Chess.
 
 ### Useful websites
 
-* [Lichess.org](https://lichess.org) - Free Online Chess
-* [ChessFactor.com](https://chessfactor.com) - Courses
-* [OpeningTree.com](https://www.openingtree.com) - Analysis
-* [Chesstree.net](https://www.chesstree.net) - Analysis
-* [ChessCompass.com](https://www.chesscompass.com) - Analysis
-* [DecodeChess.com](https://decodechess.com/) - Analysis by AI
+General
+* [Lichess.org](https://lichess.org) - Free and Open Source chess platform
+
+Analysis:
+* [OpeningTree.com](https://www.openingtree.com)
+* [Chesstree.net](https://www.chesstree.net)
+* [ChessCompass.com](https://www.chesscompass.com)
+* [DecodeChess.com](https://decodechess.com/)
+
+Courses:
+* [ChessFactor.com](https://chessfactor.com)
+* [Building Habits](https://www.youtube.com/playlist?list=PL8N8j2e7RpPnpqbISqi1SJ9_wrnNU3rEm) (full version)
 
 ### Programming references
 
