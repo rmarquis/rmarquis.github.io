@@ -25,6 +25,7 @@ Useful resources:
 
 * [WSL & Arch Linux](./wsl): set up a WSL development environment with Arch Linux.
 * [Shell customization](/sh): shell prompt customization with Starship.
+* [NeoVim](/vi): set up NeoVim and quick reference.
 
 ### Certifications
 
