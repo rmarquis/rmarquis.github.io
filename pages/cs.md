@@ -33,3 +33,4 @@ Software deployment:
 - [The Way Of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Unit Testing Wisdom From An Ancient Software Start-up, Alberto Savoia, 2007
 - [Tao of programmning language](https://www.mit.edu/~xela/tao.html), Geoffrey James, 1987
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), Michał Ży
+- [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8), Evan Czaplicki, 2023
