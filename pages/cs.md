@@ -13,24 +13,24 @@ Useful resources for Computer Sciences and programming language.
 ### Reference Books
 
 A CS Primer for self taught programmers:
-- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery, 2016
-- [The Imposter's Handbook, Season 2](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery & Scott Hanselman, 2018
+* [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery, 2016
+* [The Imposter's Handbook, Season 2](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery & Scott Hanselman, 2018
 
 [Kotlin](./kt):
-- [Atomic Kotlin](https://www.atomickotlin.com/), Bruce Eckel & Svetlana Isakova, 2021
-- [Kotlin Apprentice](https://www.raywenderlich.com/books/kotlin-apprentice/), Ellen Shapiro, Irina Galata & Victoria Gonda, 3rd Edition, 2021
-- [Kotlin Coroutines by Tutorials](https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/), Nishant Srivastava & Filip Babić, 2nd Edition, 2019
-- [Data Structures and Algorithms in Kotlin](https://www.raywenderlich.com/books/data-structures-algorithms-in-kotlin/), Irina Galata & Márton Braun, 2nd Edition, 2021
-- [Hands-on Design Patterns with Kotlin](https://www.packtpub.com/product/hands-on-design-patterns-with-kotlin/9781788998017/), Alexey Soshin, 2018
+* [Atomic Kotlin](https://www.atomickotlin.com/), Bruce Eckel & Svetlana Isakova, 2021
+* [Kotlin Apprentice](https://www.raywenderlich.com/books/kotlin-apprentice/), Ellen Shapiro, Irina Galata & Victoria Gonda, 3rd Edition, 2021
+* [Kotlin Coroutines by Tutorials](https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/), Nishant Srivastava & Filip Babić, 2nd Edition, 2019
+* [Data Structures and Algorithms in Kotlin](https://www.raywenderlich.com/books/data-structures-algorithms-in-kotlin/), Irina Galata & Márton Braun, 2nd Edition, 2021
+* [Hands-on Design Patterns with Kotlin](https://www.packtpub.com/product/hands-on-design-patterns-with-kotlin/9781788998017/), Alexey Soshin, 2018
 
 Software deployment:
-- [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman, 2020
-- [Learn Kubernetes in a Month of Lunches](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches), Elton Stoneman, 2021
+* [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman, 2020
+* [Learn Kubernetes in a Month of Lunches](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches), Elton Stoneman, 2021
 
 ### General
 
-- [How to Write a Git Commit Message](https://cbea.ms/git-commit/), Commit messages matter. Here's how to write them well, cbeams, 2014
-- [The Way Of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Unit Testing Wisdom From An Ancient Software Start-up, Alberto Savoia, 2007
-- [Tao of programmning language](https://www.mit.edu/~xela/tao.html), Geoffrey James, 1987
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), Michał Ży
-- [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8), Evan Czaplicki, 2023
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit/), Commit messages matter. Here's how to write them well, cbeams, 2014
+* [The Way Of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Unit Testing Wisdom From An Ancient Software Start-up, Alberto Savoia, 2007
+* [Tao of programmning language](https://www.mit.edu/~xela/tao.html), Geoffrey James, 1987
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), Michał Ży
+* [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8), Evan Czaplicki, 2023
