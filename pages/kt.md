@@ -18,6 +18,10 @@ Useful resources for the Kotlin programming language.
 * [Shoulders of Giants - Languages Kotlin Learned From](https://www.youtube.com/results?search_query=Kotlin+Shoulders+of+Giants) by Andrey Breslav
 * [Kotlin: a bit of history](https://www.youtube.com/watch?v=NxJabTm5vrY) by Andrey Breslav
 
+### Resources
+
+* [The Kotlin Primer](https://www.kotlinprimer.com/), an opinionated guide to the Kotlin language.
+
 ### References
 
 * [Kotlin Programming language](https://kotlinlang.org/)
