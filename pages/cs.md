@@ -16,12 +16,9 @@ A CS Primer for self taught programmers:
 * [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery, 2016
 * [The Imposter's Handbook, Season 2](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery & Scott Hanselman, 2018
 
-[Kotlin](./kt):
-* [Atomic Kotlin](https://www.atomickotlin.com/), Bruce Eckel & Svetlana Isakova, 2021
-* [Kotlin Apprentice](https://www.raywenderlich.com/books/kotlin-apprentice/), Ellen Shapiro, Irina Galata & Victoria Gonda, 3rd Edition, 2021
-* [Kotlin Coroutines by Tutorials](https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/), Nishant Srivastava & Filip Babić, 2nd Edition, 2019
-* [Data Structures and Algorithms in Kotlin](https://www.raywenderlich.com/books/data-structures-algorithms-in-kotlin/), Irina Galata & Márton Braun, 2nd Edition, 2021
-* [Hands-on Design Patterns with Kotlin](https://www.packtpub.com/product/hands-on-design-patterns-with-kotlin/9781788998017/), Alexey Soshin, 2018
+Programming languages:
+* [Kotlin](./kt)
+* [Zig](./zg)
 
 Software deployment:
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman, 2020
