@@ -63,7 +63,7 @@ NeoVim cheatsheet and useful resources.
 * `p`: paste the copied or deleted content after the cursor position.
 * `P`: paste the copied or deleted content before the cursor position.
 * `r`: replace character under the cursor.
-* `c`: replace from the cursor to where the motion takes you.
+* `c`: replace operator.
 * `C`: replace from cursor to end of line.
 * `cc`: replace the current line.
 
@@ -71,16 +71,30 @@ NeoVim cheatsheet and useful resources.
 * `C-r`: redo last undone change.
 * `.`: repeat last command.
 
+### Navigation (Object)
+
+* `)`: move start of next sentence.
+* `(`: move start of previous sentence.
+* `}`: move start of next paragraph.
+* `{`: move start of previous paragraph.
+* `]`: move start of next section.
+* `[`: move start of previous section.
+
+### Edit (Object)
+
+* `diw`: delete inner word.
+* `ciw`: change inner word.
+* `yiw`: yank inner word.
+* `daw`: delete a word.
+* `caw`: change a word.
+* `yaw`: yank a word.
+...
+
 ### Indent
 
 * `>>`: indent to the right.
 * `<<`: indent to the left.
 * `==`: autoindent line.
-
-
-* `diw`: delete in word.
-* `ciw`: change in word.
-* `yiw`: yank in word.
 
 ### Visual selection
 
