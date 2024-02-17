@@ -161,6 +161,22 @@ Initialize the keyring of the `pacman` package manager:
 
 ## Post-installation
 
+### Set neovim as default editor
+
+In `~/.zshrc`, set the default editor:
+
+```
+# editor
+export EDITOR=nvim
+export VISUAL=nvim
+```
+
+In `/etc/sudoers`, set teh default editor for `sudo`:
+
+```
+Defaults editor=/usr/bin/nvim
+```
+
 ### Install an AUR helper
 
 Install an [AUR helper](https://wiki.archlinux.org/title/AUR_helpers) to easily access the [Arch User Repository](https://wiki.archlinux.org/title/Arch_User_Repository).
@@ -224,6 +240,48 @@ In `~/.zshrc`, add:
 
 ```
 export BROWSER="pwsh.exe /C start"
+```
+
+### Set systemd time synchronization
+
+To avoid time desynchronization after waking up from sleep, enable the time synchronization daemon.
+
+Ensure systemd is enabled at boot in `/etc/wsl.conf`:
+
+```
+[boot]
+systemd=true
+```
+
+Adjust systemd config to enable time synchronization:
+
+```
+sudo systemctl edit systemd-timesyncd
+```
+
+Override the setting by adding these 2 lines:
+
+```
+### Editing /etc/systemd/system/systemd-timesyncd.service.d/override.conf
+
+[Unit]
+ConditionVirtualization=
+
+### Line below this comment will be discarded
+```
+
+Enable and start the service:
+
+```
+sudo systemctl enable systemd-timesyncd
+sudo systemctl start systemd-timesyncd
+```
+
+Check the status with:
+
+```
+timedatectl status
+timedatectl timesync-status
 ```
 
 ## Troubleshooting
