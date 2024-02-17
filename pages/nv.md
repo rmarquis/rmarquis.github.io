@@ -174,26 +174,18 @@ NeoVim cheatsheet and useful resources.
 
 ## Configuration
 
-* `:set number`: show line numbers.
-* `:set relativenumber`: set relative line numbers.
-* `:set tabstop=4`:
-* `:set shiftwidth=4`:
-* `:set softtabstop=4`:
-* `:set autoindent`:
-* `:set smarttab`:
-* `:set list`: show invisible characters.
-* `:set mouse=a`:
-* `:set encoding=UTF-8`:
-* `:colorscheme=default`: set colorsheme `default`.
+* See my [nvim configuration](https://github.com/rmarquis/nvim)
 
 ## Resources
 
-### Plugin
+### Plugins
 
 * [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim)
+* [Neovimcraft](https://neovimcraft.com/)
 
 ### NeoVim distributions
 
+* [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 * [LazyVim](https://www.lazyvim.org/)
 * [NvChad](https://nvchad.com/)
 * [AstroNvim](https://astronvim.com/)
