@@ -20,4 +20,4 @@ Useful resources for the Zig programming language.
 ### References
 
 * [Zig Programming language](https://ziglang.org/)
-* [Ziglings](https://github.com/ratfactor/ziglings), Learn the Zig programming language by fixing tiny broken programs.
+* [Ziglings](https://github.com/ziglings-org/exercises), Learn the Zig programming language by fixing tiny broken programs.
