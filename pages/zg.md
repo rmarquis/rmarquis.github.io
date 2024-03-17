@@ -20,6 +20,7 @@ Useful resources for the Zig programming language.
 
 * [Ziglings](https://github.com/ziglings-org/exercises), Learn the Zig programming language by fixing tiny broken programs.
 * [Zig in Depth](https://www.youtube.com/playlist?list=PLtB7CL7EG7pCw7Xy1SQC53Gl8pI7aDg9t)
+* [Zig.guide](https://zig.guide/)
 
 ### Tools
 
