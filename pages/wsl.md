@@ -242,6 +242,10 @@ In `~/.zshrc`, add:
 export BROWSER="pwsh.exe /C start"
 ```
 
+## Troubleshooting
+
+Known issues and resolution.
+
 ### Set systemd time synchronization
 
 To avoid time desynchronization after waking up from sleep, enable the time synchronization daemon.
@@ -283,10 +287,6 @@ Check the status with:
 timedatectl status
 timedatectl timesync-status
 ```
-
-## Troubleshooting
-
-Known issues and resolution.
 
 ### libcuda.so.1 is not a symbolic link
 
