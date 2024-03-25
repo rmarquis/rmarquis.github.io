@@ -314,11 +314,11 @@ sudo ldconfig
 
 WSL does not release disk space back to the host OS automatically.
 
-To do it manually:
+To automatically shrinks the WSL virtual hard disk (VHD) as you use it, create a `.wslconfig` file in `C:\Users\<UserName>\`:
 
 ```
-wsl.exe --shutdown
-optimize-vhd -Path C:\Linux\ext4.vhdx -Mode full
+[experimental]
+sparseVhd=true
 ```
 
 ## Resources
