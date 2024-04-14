@@ -109,3 +109,7 @@ A few projects I worked on:
   * Machine Learning Data Lifecycle in Production
   * Machine Learning Modeling Pipelines in Production
   * Deploying Machine Learning Models in Production
+* deeplearning.ai * [Generative AI with Large Language Models Specialization](https://www.deeplearning.ai/) by Andrew Ng, Robert Crowe, Laurence Moroney
+  * Generative AI use cases, project lifecycle, and model pre-training
+  * Fine-tuning and evaluating large language models
+  * Reinforcement learning and LLM-powered applications
