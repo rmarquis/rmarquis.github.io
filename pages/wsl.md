@@ -294,19 +294,12 @@ Running `sudo pacman -Syu` results in a warning:
 
     /sbin/ldconfig.real: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
 
-Run CMD in Windows (as Administrator):
+Replace the duplicated files with symlinks:
 ```
-cd \Windows\System32\lxss\lib
-del libcuda.so
-del libcuda.so.1
-mklink libcuda.so libcuda.so.1.1
-mklink libcuda.so.1 libcuda.so.1.1
-```
-
-In WSL shell:
-
-```
-wsl -e /bin/bash
+cd /usr/lib/wsl/lib
+sudo rm libcuda.so libcuda.so.1
+sudo ln -s libcuda.so.1.1 libcuda.so.1
+sudo ln -s libcuda.so.1 libcuda.so
 sudo ldconfig
 ```
 
