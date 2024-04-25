@@ -12,9 +12,11 @@ Set up a WSL development environment using [Arch Linux](https://www.archlinux.or
 
 ## Install WSL
 
-### Enable Virtual Machine Platform
+### Enable Virtualization
 
-Ensure the `Virtual Machine Platform` optional component is enabled and that virtualization is enabled in the BIOS.
+Ensure that virtualization is enabled in the BIOS and that the `Windows Subsystem for Linux` optional component is enabled.
+
+    > Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
 ### Install WSL
 
