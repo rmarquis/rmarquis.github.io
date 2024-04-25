@@ -26,9 +26,13 @@ Install the `Windows Subsystem for Linux` from the Microsoft Store, which is [no
 
 ### Update WSL
 
-To update to the latest version of WSL and WSLg, simply run `wsl --update` from an elevated command prompt or powershell.
+To update to the latest stable version of WSL and WSLg, simply run `wsl --update` from an elevated command prompt or powershell.
 
     > wsl --update
+
+To update to the latest pre-relase version, run instead:
+
+    > wsl --update --pre-release
 
 ## Install a distribution
 
