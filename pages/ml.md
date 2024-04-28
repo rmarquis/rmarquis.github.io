@@ -18,6 +18,7 @@ See [Certifications](./ct) for ML, DL, NLP, GANs, AI and MLops certificates.
 
 #### General
 
+* [Interpretable Machine Learning:  Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/), Molnar, 2023
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/), Prince, 2023
 * [The Little Book of Deep Learning](https://fleuret.org/francois/), Fleuret, 2023
 * [Rules of Machine Learning: Best Practices for ML Engineering](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf), Zinkevich, 2016
