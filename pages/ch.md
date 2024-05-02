@@ -25,6 +25,12 @@ Courses:
 * [ChessFactor.com](https://chessfactor.com)
 * [Building Habits](https://www.youtube.com/playlist?list=PL8N8j2e7RpPnpqbISqi1SJ9_wrnNU3rEm) (full version)
 
+### Tutorials
+
+* [Bitboard CHESS ENGINE in C](https://www.youtube.com/playlist?list=PLmN0neTso3Jxh8ZIylk74JpwfiWNI76Cs) by Code Monkey King
+* [Programming A Chess Engine in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) by Bluefever Software
+* [Code a Chess Game with Stockfish API – JavaScript Tutorial](https://www.youtube.com/watch?v=fJIsqZmQVZQ) by RobertsTech139
+
 ### Programming references
 
 * [Chess Programming Wiki](https://www.chessprogramming.org/) - repository of information about chess programming
