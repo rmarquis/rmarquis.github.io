@@ -27,9 +27,14 @@ Courses:
 
 ### Tutorials
 
+Complete implementations:
 * [Bitboard CHESS ENGINE in C](https://www.youtube.com/playlist?list=PLmN0neTso3Jxh8ZIylk74JpwfiWNI76Cs) by Code Monkey King
 * [Programming A Chess Engine in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) by Bluefever Software
 * [Code a Chess Game with Stockfish API – JavaScript Tutorial](https://www.youtube.com/watch?v=fJIsqZmQVZQ) by RobertsTech139
+
+General:
+* [The Fascinating Programming of a Chess Engine](https://www.youtube.com/watch?v=w4FFX_otR-4) by Bartek Spitza
+* [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI) by Sebastian Lague
 
 ### Programming references
 
