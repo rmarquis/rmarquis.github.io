@@ -177,7 +177,7 @@ export EDITOR=nvim
 export VISUAL=nvim
 ```
 
-In `/etc/sudoers`, set teh default editor for `sudo`:
+In `/etc/sudoers`, set the default editor for `sudo`:
 
 ```
 Defaults editor=/usr/bin/nvim
