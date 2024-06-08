@@ -12,17 +12,17 @@ Useful resources for Computer Sciences and programming language.
 
 ### Reference Books
 
-A CS Primer for self taught programmers:
-* [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery, 2016
-* [The Imposter's Handbook, Season 2](https://bigmachine.io/products/the-imposters-handbook/), Rob Conery & Scott Hanselman, 2018
-
-Programming languages:
-* [Kotlin](./kt)
-* [Zig](./zg)
+Computer Sciences:
+* [The Imposter's Handbook](https://bigmachine.io/), 2nd Edition, Rob Conery, 2022
+* [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/), Jens Gustedt, 2019
 
 Software deployment:
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman, 2020
 * [Learn Kubernetes in a Month of Lunches](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches), Elton Stoneman, 2021
+
+Programming languages:
+* [Kotlin](./kt)
+* [Zig](./zg)
 
 ### General
 
