@@ -37,6 +37,7 @@ Complete implementations:
 General:
 * [The Fascinating Programming of a Chess Engine](https://www.youtube.com/watch?v=w4FFX_otR-4) by Bartek Spitza
 * [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI) by Sebastian Lague
+* [Worlds Fastest Bitboard Chess Movegenerator](https://www.codeproject.com/Articles/5313417/Worlds-fastest-Bitboard-Chess-Movegenerator) by D. Infuehr
 
 ### Programming references
 
