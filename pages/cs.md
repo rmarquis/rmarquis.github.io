@@ -24,6 +24,9 @@ Programming languages:
 * [Kotlin](./kt)
 * [Zig](./zg)
 
+Various:
+* [Awesome list](https://github.com/sindresorhus/awesome)
+
 ### General
 
 * [How To Ask Questions The Smart Way](https://www.catb.org/~esr/faqs/smart-questions), Eric S. Raymond, 2001-2014
