@@ -3,9 +3,9 @@ layout: default
 permalink: /nv
 ---
 
-## [Home](/) >> NeoVim editor
+## [Home](/) >> Neovim editor
 
-NeoVim cheatsheet and useful resources.
+Neovim cheatsheet and useful resources.
 
 * TOC
 {:toc}
@@ -174,7 +174,7 @@ NeoVim cheatsheet and useful resources.
 
 ## Configuration
 
-* See my [nvim configuration](https://github.com/rmarquis/nvim)
+* See my [Neovim configuration](https://github.com/rmarquis/nvim)
 
 ## Resources
 
@@ -183,7 +183,7 @@ NeoVim cheatsheet and useful resources.
 * [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim)
 * [Neovimcraft](https://neovimcraft.com/)
 
-### NeoVim distributions
+### Neovim distributions
 
 * [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 * [LazyVim](https://www.lazyvim.org/)
