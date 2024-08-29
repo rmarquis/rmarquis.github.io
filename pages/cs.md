@@ -15,6 +15,7 @@ Useful resources for Computer Sciences and programming language.
 Computer Sciences:
 * [The Imposter's Handbook](https://bigmachine.io/), 2nd Edition, Rob Conery, 2022
 * [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/), Jens Gustedt, 2019
+* [Pro Git](https://git-scm.com/book/en/v2), Scott Chacon, Ben Straub, 2014
 
 Software deployment:
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman, 2020
