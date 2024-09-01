@@ -10,6 +10,8 @@ Shell prompt customization, using [Starship](https://starship.rs/) as a minimal,
 * TOC
 {:toc}
 
+* * *
+
 ## Prerequisites
 
 Install a [Nerd Font](https://www.nerdfonts.com/) and enable it in your terminal. For example, try:

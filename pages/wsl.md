@@ -10,6 +10,8 @@ Set up a WSL development environment using [Arch Linux](https://www.archlinux.or
 * TOC
 {:toc}
 
+* * *
+
 ## Install WSL
 
 ### Enable Virtualization

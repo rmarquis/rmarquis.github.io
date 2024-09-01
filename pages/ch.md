@@ -10,6 +10,8 @@ Useful resources for Chess.
 * TOC
 {:toc}
 
+* * *
+
 ### Useful websites
 
 General

@@ -7,6 +7,11 @@ permalink: /ct
 
 My specialization certificates.
 
+* TOC
+{:toc}
+
+* * *
+
 ### [Generative AI with Large Language Models Certificate](https://www.coursera.org/account/accomplishments/certificate/CFJA3G48KRFP)
 
 **Coursera**, May 2024

@@ -10,6 +10,8 @@ Neovim cheatsheet and useful resources.
 * TOC
 {:toc}
 
+* * *
+
 ## Cheatsheet
 
 ### Modes

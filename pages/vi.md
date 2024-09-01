@@ -10,6 +10,8 @@ VimTutor interactive tutorial summary.
 * TOC
 {:toc}
 
+* * *
+
 ## Summary
 
 Interactive tutorial: `:Tutor`.

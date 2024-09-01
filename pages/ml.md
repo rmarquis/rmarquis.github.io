@@ -10,6 +10,8 @@ Useful resources for Machine Learning and Statistics.
 * TOC
 {:toc}
 
+* * *
+
 ### Specialization Certificates
 
 See [Certifications](./ct) for AI, ML, DL, NLP, GANs and LLMs certificates.
