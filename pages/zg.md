@@ -3,7 +3,7 @@ layout: default
 permalink: /zg
 ---
 
-## [Home](/) >> Zig
+## [Home](/) >> [Computer Sciences](./cs) >> Zig
 
 Useful resources for the Zig programming language.
 

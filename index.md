@@ -10,13 +10,9 @@ You can read learn more about me on my [GitHub profile](https://github.com/rmarq
 
 ### Resources
 
-Useful resources:
-
-* [Computer Sciences](./cs): general resources for computer sciences.
-* [Machine Learning](./ml): general resources for machine learning.
-* [Kotlin](./kt): resources specific to the Kotlin programming language.
-* [Zig](./zg): resources specific to the Zig programming language.
-* [Chess](./ch): Chess programming
+* [Computer Sciences](./cs): resources for computer sciences and programming.
+* [Machine Learning](./ml): resources for machine learning.
+* [Chess](./ch): resources for chess programming
 
 ### Guides
 

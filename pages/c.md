@@ -3,7 +3,7 @@ layout: default
 permalink: /c
 ---
 
-## [Home](/) >> C
+## [Home](/) >> [Computer Sciences](./cs) >> C
 
 Useful resources for the C programming language.
 

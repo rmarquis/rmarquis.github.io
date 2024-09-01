@@ -3,7 +3,7 @@ layout: default
 permalink: /kt
 ---
 
-## [Home](/) >> Kotlin
+## [Home](/) >> [Computer Sciences](./cs) >> Kotlin
 
 Useful resources for the Kotlin programming language.
 

@@ -10,6 +10,8 @@ Useful resources for Computer Sciences and programming language.
 * TOC
 {:toc}
 
+* * *
+
 ### Reference Books
 
 Computer Sciences:
@@ -20,18 +22,16 @@ Software deployment:
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman, 2020
 * [Learn Kubernetes in a Month of Lunches](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches), Elton Stoneman, 2021
 
-Programming languages:
-* [C](./c)
-* [Kotlin](./kt)
-* [Zig](./zg)
-
 Open Source:
 * [The Open Source Way](https://www.theopensourceway.org/), Various contributors, 2020
 * [The Art of Community * Building the New Age of Participation](https://www.jonobacon.com/books/artofcommunity/), Jono Bacon, 2012
 * [Working in public * The making and maintenance of open source software](https://press.stripe.com/working-in-public), Nadia Eghbal, 2020
 
-Various:
-* [Awesome list](https://github.com/sindresorhus/awesome)
+### Programming languages
+
+* [C](./c)
+* [Kotlin](./kt)
+* [Zig](./zg)
 
 ### General
 
@@ -41,3 +41,7 @@ Various:
 * [Tao of programmning language](https://www.mit.edu/~xela/tao.html), Geoffrey James, 1987
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), Michał Ży
 * [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8), Evan Czaplicki, 2023
+
+### Various
+
+* [Awesome list](https://github.com/sindresorhus/awesome)
