@@ -17,6 +17,7 @@ Useful resources for the Kotlin programming language.
 * [Creating The Best Programming Language: The Story of Kotlin](https://www.youtube.com/watch?v=uE-1oF9PyiY)
 * [Shoulders of Giants - Languages Kotlin Learned From](https://www.youtube.com/results?search_query=Kotlin+Shoulders+of+Giants) by Andrey Breslav
 * [Kotlin: a bit of history](https://www.youtube.com/watch?v=NxJabTm5vrY) by Andrey Breslav
+* [Beyond the success of Kotlin - The Documentary](https://www.youtube.com/watch?v=E8CtE7qTb-Q) by EngX
 
 ### Resources
 
