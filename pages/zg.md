@@ -25,7 +25,7 @@ Useful resources for the Zig programming language.
 * [Beginner's Guide to Zig](https://www.youtube.com/watch?v=ZNypGSqpwdc&list=PL0-BgRHrP_sMpEvPImEbLrLKvx2Swci_6) by CodingWithTom
 * [Zig.guide](https://zig.guide/)
 * [Zig Cookbook](https://cookbook.ziglang.cc/)
-
+* [Introduction to Zig: a project-based book](https://pedropark99.github.io/zig-book/)
 
 ### Tools
 
