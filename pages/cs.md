@@ -12,6 +12,12 @@ Useful resources for Computer Sciences and programming language.
 
 * * *
 
+### Programming languages
+
+* [C](./c)
+* [Kotlin](./kt)
+* [Zig](./zg)
+
 ### Reference Books
 
 Computer Sciences:
@@ -26,12 +32,6 @@ Open Source:
 * [The Open Source Way](https://www.theopensourceway.org/), Various contributors, 2020
 * [The Art of Community * Building the New Age of Participation](https://www.jonobacon.com/books/artofcommunity/), Jono Bacon, 2012
 * [Working in public * The making and maintenance of open source software](https://press.stripe.com/working-in-public), Nadia Eghbal, 2020
-
-### Programming languages
-
-* [C](./c)
-* [Kotlin](./kt)
-* [Zig](./zg)
 
 ### General
 
