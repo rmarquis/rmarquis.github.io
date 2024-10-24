@@ -27,6 +27,10 @@ Courses:
 * [ChessFactor.com](https://chessfactor.com)
 * [Building Habits](https://www.youtube.com/playlist?list=PL8N8j2e7RpPnpqbISqi1SJ9_wrnNU3rEm) (full version)
 
+### Videos
+
+* [The story of Lichess](https://www.youtube.com/watch?v=H39AHPSBcGc), Dominik Töpfer
+
 ### Tutorials
 
 Complete implementations:
