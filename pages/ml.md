@@ -73,7 +73,7 @@ A few projects I worked on:
 
 ### Useful Courses
 
-* Stanford University * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
+* deeplearning.ai * [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) by Andrew Ng
   * Logistic Regression, Regularization
   * Neural Networks
   * Advice for Applying Machine Learning, Machine Learning System Design
