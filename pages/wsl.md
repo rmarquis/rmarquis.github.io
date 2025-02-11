@@ -242,6 +242,23 @@ Make it the [default shell](https://wiki.archlinux.org/title/Command-line_shell#
 
     $ chsh -s /bin/zsh
 
+### Enable system clipboard
+
+Enable system clipboard with WSLg and Wayland:
+
+```
+sudo pacman -S wl-clipboard
+```
+
+Enable WSLg communication socket for the user:
+
+```
+sudo umount --quiet /tmp/.X11-unix
+sudo rm -rf /tmp/.X11-unix
+sudo ln -s /mnt/wslg/.X11-unix /tmp/.X11-unix
+sudo ln -s /mnt/wslg/runtime-dir/wayland-0* /run/user/1000/
+```
+
 ### Get xdg-open to open a browser on Windows from WSL
 
 In `~/.zshrc`, add:
