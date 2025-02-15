@@ -344,7 +344,7 @@ sparseVhd=true
 ### WSL
 
 * [Windows Subsystem for Linux Documentation](https://learn.microsoft.com/en-us/windows/wsl/)
-* [WSL Distro Launcher Reference Implementation](https://github.com/Microsoft/WSL-DistroLauncher)
+* [Build a Custom Linux Distribution for WSL](https://learn.microsoft.com/en-us/windows/wsl/build-custom-distro)
 * [Advanced settings configuration in WSL](https://learn.microsoft.com/en-us/windows/wsl/wsl-config)
 * [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL)
 
