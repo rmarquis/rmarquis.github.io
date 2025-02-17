@@ -309,7 +309,7 @@ Check the status with:
     $ timedatectl status
     $ timedatectl timesync-status
 
-### libcuda.so.1 is not a symbolic link
+### Fix libcuda symbolic link
 
 Running `sudo pacman -Syu` results in a warning:
 
@@ -350,9 +350,7 @@ Inside the working system, use `lsblk` to find the device and mount the device:
 
     $ sudo mount /dev/sdc /mnt
 
-Repair the distro or retrieve files.
-
-Umount the device:
+Repair the distro or retrieve files, then unmount the device:
 
     $ umount /mnt
 
