@@ -52,7 +52,7 @@ Download and extract the latest online installer `Arch_Online.zip` archive from 
 
 Run the executable:
 
-    PS C:\Linux > Arch.exe
+    > Arch.exe
 
 You can check that the distribution has been installed and registered as default with WSL:
 
@@ -99,7 +99,7 @@ Adjust default user sudo permissions in `/etc/sudoers` using `visudo`.
 
 ```
 ## Uncomment to allow members of group wgeel to execute any command
-> %wheel ALL=(ALL) ALL
+%wheel ALL=(ALL) ALL
 ```
 
 Exit and set the default user of the Arch WSL instance:
@@ -246,18 +246,14 @@ Make it the [default shell](https://wiki.archlinux.org/title/Command-line_shell#
 
 Enable system clipboard with WSLg and Wayland:
 
-```
-sudo pacman -S wl-clipboard
-```
+    $ sudo pacman -S wl-clipboard
 
 Enable WSLg communication socket for the user:
 
-```
-sudo umount --quiet /tmp/.X11-unix
-sudo rm -rf /tmp/.X11-unix
-sudo ln -s /mnt/wslg/.X11-unix /tmp/.X11-unix
-sudo ln -s /mnt/wslg/runtime-dir/wayland-0* /run/user/1000/
-```
+    $ sudo umount --quiet /tmp/.X11-unix
+    $ sudo rm -rf /tmp/.X11-unix
+    $ sudo ln -s /mnt/wslg/.X11-unix /tmp/.X11-unix
+    $ sudo ln -s /mnt/wslg/runtime-dir/wayland-0* /run/user/1000/
 
 ### Get xdg-open to open a browser on Windows from WSL
 
@@ -284,9 +280,7 @@ systemd=true
 
 Adjust systemd config to enable time synchronization:
 
-```
-sudo systemctl edit systemd-timesyncd
-```
+    $ sudo systemctl edit systemd-timesyncd
 
 Override the setting by adding these 2 lines:
 
@@ -301,17 +295,13 @@ ConditionVirtualization=
 
 Enable and start the service:
 
-```
-sudo systemctl enable systemd-timesyncd
-sudo systemctl start systemd-timesyncd
-```
+    $ sudo systemctl enable systemd-timesyncd
+    $ sudo systemctl start systemd-timesyncd
 
 Check the status with:
 
-```
-timedatectl status
-timedatectl timesync-status
-```
+    $ timedatectl status
+    $ timedatectl timesync-status
 
 ### libcuda.so.1 is not a symbolic link
 
@@ -320,13 +310,12 @@ Running `sudo pacman -Syu` results in a warning:
     /sbin/ldconfig.real: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
 
 Replace the duplicated files with symlinks:
-```
-cd /usr/lib/wsl/lib
-sudo rm libcuda.so libcuda.so.1
-sudo ln -s libcuda.so.1.1 libcuda.so.1
-sudo ln -s libcuda.so.1 libcuda.so
-sudo ldconfig
-```
+
+    $ cd /usr/lib/wsl/lib
+    $ sudo rm libcuda.so libcuda.so.1
+    $ sudo ln -s libcuda.so.1.1 libcuda.so.1
+    $ sudo ln -s libcuda.so.1 libcuda.so
+    $ sudo ldconfig
 
 ### Release allocation of disk space
 
@@ -338,6 +327,32 @@ To automatically shrinks the WSL virtual hard disk (VHD) as you use it, create a
 [experimental]
 sparseVhd=true
 ```
+
+### Recover from catastrophic failure
+
+Running `wsl` results in an error:
+
+    > wsl.exe
+    Catastrophic failure
+    Error code: Wsl/Service/CreateInstance/E_UNEXPECTED
+
+Mount the `.vhdx` image file on another distro:
+
+    > wsl -d <working distro> --mount --vhd <path to image>\<image name>.vhdx --bare
+
+Inside the working system, use `lsblk` to find the device and mount the device:
+
+    $ sudo mount /dev/sdc /mnt
+
+Repair the distro or retrieve files.
+
+Umount the device:
+
+    $ umount /mnt
+
+On Windows, umount the image:
+
+    > wsl --unmount <path to image>\<image name>.vhdx
 
 ## Resources
 
