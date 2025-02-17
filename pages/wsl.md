@@ -162,7 +162,7 @@ Initialize the keyring of the `pacman` package manager:
     $ sudo pacman-key --init
     $ sudo pacman-key --populate
 
-### Packages update
+#### Packages update
 
     $ sudo pacman -Sy archlinux-keyring
     $ sudo pacman -Su
@@ -180,7 +180,11 @@ Make it the [default shell](https://wiki.archlinux.org/title/Command-line_shell#
 
     $ chsh -s /bin/zsh
 
-### Set neovim as default editor
+### Install Neovim
+
+    $ sudo pacman -S neovim
+
+Set neovim as default editor
 
 In `~/.zshrc`, set the default editor:
 
