@@ -188,6 +188,9 @@ In `~/.zshrc`, set the default editor:
 # editor
 export EDITOR=nvim
 export VISUAL=nvim
+export SUDO_EDITOR=nvim
+export SYSTEMD_EDITOR=nvim
+export GIT_EDITOR=nvim
 ```
 
 In `/etc/sudoers`, set the default editor for `sudo`:
