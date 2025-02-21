@@ -35,6 +35,7 @@ See [Certifications](./ct) for AI, ML, DL, NLP, GANs and LLMs certificates.
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), James, Witten, Hastie & Tibshirani, 2013
 * [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016
 * [Mathematics for Machine Learning](https://mml-book.github.io/), Deisenroth, Faisal, Ong, 2020
+* [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/), Huyen, 2021
 * [Designing Machine Learning Systems * An Iterative Process for Production-Ready Applications](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/), Huyen, 2022
 
 
