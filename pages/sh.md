@@ -37,8 +37,6 @@ Invoke-Expression (&starship init powershell)
 
 The Bash shell does not support the right prompt, so ensure to use [Zsh](https://wiki.archlinux.org/title/Zsh) instead.
 
-#### Install Starship
-
 Install Starship:
 
     $ sudo pacman -S starship
