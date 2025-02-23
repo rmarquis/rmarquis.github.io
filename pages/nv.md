@@ -189,9 +189,9 @@ Neovim cheatsheet and useful resources.
 
 * [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 * [LazyVim](https://www.lazyvim.org/)
-* [NvChad](https://nvchad.com/)
 * [AstroNvim](https://astronvim.com/)
-* [LunarVim](https://www.lunarvim.org/)
+* [NormalNvim](https://github.com/NormalNvim/NormalNvim)
+* [NvChad](https://nvchad.com/)
 
 ### Cheatsheets
 
