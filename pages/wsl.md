@@ -109,7 +109,26 @@ Exit and set the default user of the Arch WSL instance:
 
 ### Configure WSL settings
 
-Adjust [WSL config](https://learn.microsoft.com/en-us/windows/wsl/wsl-config) in `/etc/wsl.conf`:
+Set [advanced settings configuration](https://learn.microsoft.com/en-us/windows/wsl/wsl-config).
+
+#### Global settings
+
+Adjust global configuration file in `C:\Users\<Username>\.wslconfig`:
+
+```
+# Settings apply across all Linux distros running on WSL 2
+[wsl2]
+memory=24GB
+processors=20
+
+[experimental]
+autoMemoryReclaim=gradual
+sparseVhd=true
+```
+
+#### Local settings
+
+Adjust local configuration file in `/etc/wsl.conf`:
 
 ```
 #
