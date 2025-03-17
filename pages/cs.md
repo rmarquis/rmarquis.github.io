@@ -21,6 +21,7 @@ Useful resources for Computer Sciences and programming language.
 ### Reference Books
 
 Computer Sciences:
+* [A philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/aposd.php), John Ousterhout, 2018
 * [The Imposter's Handbook](https://bigmachine.io/), 2nd Edition, Rob Conery, 2022
 * [Pro Git](https://git-scm.com/book/en/v2), Scott Chacon, Ben Straub, 2014
 
