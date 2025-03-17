@@ -44,4 +44,5 @@ Open Source:
 
 ### Various
 
+* [On the Prehistory of QWERTY](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf), Koichi Yasuoka and Motoko Yasukua, ZINBUN 2009/2010 No.42
 * [Awesome list](https://github.com/sindresorhus/awesome)
