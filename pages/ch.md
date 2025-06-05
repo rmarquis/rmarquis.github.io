@@ -12,6 +12,17 @@ Useful resources for Chess.
 
 * * *
 
+
+### Papers
+
+Engine:
+* [Programming a Computer for Playing Chess](https://docslib.org/doc/12104513/xxii-programming-a-computer-for-playing-chess1-by-claude-e), Claude E.. Shannon, 1949
+
+eXpanability:
+* [ChessCoach](https://chrisbutner.github.io/ChessCoach/)
+* [Automated Chess Commentator Powered by Neural Chess Engine](https://arxiv.org/pdf/1909.10413)
+* [Bridging the Gap between Expert and Language Models: Concept-guided Chess Commentary Generation and Evaluation](https://arxiv.org/abs/2410.20811)
+
 ### Useful websites
 
 General
@@ -50,4 +61,5 @@ General:
 
 * [Chess Programming Wiki](https://www.chessprogramming.org/) - repository of information about chess programming
 * [brucemo.com](https://web.archive.org/web/20040604071434/http://www.brucemo.com/compchess/programming/index.htm) - Series of essays on computer chess topics
+* [tscpchess](https://sites.google.com/site/tscpchess/home)
 * [Neural Networks For Chess](https://github.com/asdfjkl/neural_network_chess) - Free Book about Deep-Learning approaches for Chess
