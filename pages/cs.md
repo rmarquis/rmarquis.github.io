@@ -46,4 +46,15 @@ Open Source:
 ### Various
 
 * [On the Prehistory of QWERTY](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf), Koichi Yasuoka and Motoko Yasukua, ZINBUN 2009/2010 No.42
-* [Awesome list](https://github.com/sindresorhus/awesome)
+* [Awesome list](https://github.com/sindresorhus/awesome), Curated list of awesome lists
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms), About
+A curated list of awesome places to learn and/or practice algorithms.
+* [computer-science](https://github.com/ossu/computer-science), Path to a free self-taught education in Computer Science!
+* [professional-programming](https://github.com/charlax/professional-programming?tab=readme-ov-file#kubernetes), A collection of learning resources for curious software engineers
+* [the-book-of-secret-knowledge
+](https://github.com/trimstray/the-book-of-secret-knowledge), A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+* [coding-interview-university
+](https://github.com/jwasham/coding-interview-university), A complete computer science study plan to become a software engineer.
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses), List of Computer Science courses with video lectures.
+* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), A collection of (mostly) technical things every software developer should know about
+* [heig-vd-dai-course](https://github.com/heig-vd-dai-course/heig-vd-dai-course), HEIG-VD DAI Course
