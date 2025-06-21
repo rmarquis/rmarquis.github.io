@@ -23,4 +23,4 @@ You can read learn more about me on my [GitHub profile](https://github.com/rmarq
 
 ### Certifications
 
-* [Certificates](./ct): ML specialization certificates.
+* [Certificates](./ct): AI/ML Specialization and Three.js certificates

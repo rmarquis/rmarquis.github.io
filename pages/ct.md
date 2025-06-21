@@ -12,6 +12,22 @@ My specialization certificates.
 
 * * *
 
+### [Three.js Journey Certificate of Completion](https://threejs-journey.com/certificate/view/40372)
+
+**[Three.js journey](https://threejs-journey.com/)**, May 2025
+
+1 course, 93h of tutorial, approximately 150h to complete
+
+* Core Fundamentals: Scene creation and setup, Implementation of cameras, geometries, materials, and textures, Debug panel integration, Object animation techniques, Project deployment workflow
+* Rendering Techniques: Dynamic lighting systems and shadow casting, Large-scale particle system implementation (millions+), Scroll-based animation mechanics
+* Advanced Implementation: Physics engine integration, Custom 3D model import/optimization (Blender to Three.js), Photorealistic material/texture workflows, Code architecture for complex projects
+* Shader Programming: GLSL language fundamentals, Custom material/shader creation, Advanced visual effects development, Modification of existing materials
+* Optimization & Extensions: Performance monitoring methodologies, Cross-device compatibility testing, Shader-based rendering optimizations, Experimental technique exploration
+* Applied Project: Portal Scene, Blender scene construction for Three.js, Light/shadow baking techniques, Asset optimization for real-time rendering
+* Framework Integration: Three.js implementation in React, React Three Fiber (R3F) core features, Component-based 3D scene construction
+
+* * *
+
 ### [Generative AI with Large Language Models Certificate](https://www.coursera.org/account/accomplishments/certificate/CFJA3G48KRFP)
 
 **Coursera**, May 2024
