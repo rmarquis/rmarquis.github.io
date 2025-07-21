@@ -18,7 +18,7 @@ Useful resources for Chess.
 Engine:
 * [Programming a Computer for Playing Chess](https://docslib.org/doc/12104513/xxii-programming-a-computer-for-playing-chess1-by-claude-e), Claude E.. Shannon, 1949
 
-eXpanability:
+Explainability:
 * [ChessCoach](https://chrisbutner.github.io/ChessCoach/)
 * [Automated Chess Commentator Powered by Neural Chess Engine](https://arxiv.org/pdf/1909.10413)
 * [Bridging the Gap between Expert and Language Models: Concept-guided Chess Commentary Generation and Evaluation](https://arxiv.org/abs/2410.20811)
@@ -55,6 +55,8 @@ Complete implementations:
 General:
 * [The Fascinating Programming of a Chess Engine](https://www.youtube.com/watch?v=w4FFX_otR-4) by Bartek Spitza
 * [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI) by Sebastian Lague
+* [Coding Adventure: Chess](https://www.youtube.com/watch?v=U4ogK0MIzqk) by Sebastian Lague
+* [Coding Adventure: Making a Better Chess Bot](https://www.youtube.com/watch?v=_vqlIPDR2TU) by Sebastian Lague
 * [Worlds Fastest Bitboard Chess Movegenerator](https://www.codeproject.com/Articles/5313417/Worlds-fastest-Bitboard-Chess-Movegenerator) by D. Infuehr
 
 ### Programming references
