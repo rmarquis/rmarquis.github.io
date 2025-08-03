@@ -23,7 +23,14 @@ Useful resources for Computer Sciences and programming language.
 Computer Sciences:
 * [A philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/aposd.php), John Ousterhout, 2018
 * [The Imposter's Handbook](https://bigmachine.io/), 2nd Edition, Rob Conery, 2022
-* [Pro Git](https://git-scm.com/book/en/v2), Scott Chacon, Ben Straub, 2014
+
+Version Control Systems:
+* [Git](https://git-scm.com/)
+  * [Pro Git](https://git-scm.com/book/en/v2), Scott Chacon, Ben Straub, 2014
+* [Jujutsu - a version control system](https://jj-vcs.github.io/)
+  * [Essay - jj init](https://v5.chriskrycho.com/essays/jj-init/), Chris Krycho, 2024
+  * [Steve's Jujutsu Tutorial](https://steveklabnik.github.io/jujutsu-tutorial/), Steve Klabnik, 2024
+  * [Jujutsu For Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs), Madeleine Mortensen, July 2025
 
 Software deployment:
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman, 2020
