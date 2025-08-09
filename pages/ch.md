@@ -36,7 +36,8 @@ Analysis:
 
 Courses:
 * [ChessFactor.com](https://chessfactor.com)
-* [Building Habits](https://www.youtube.com/playlist?list=PL8N8j2e7RpPnpqbISqi1SJ9_wrnNU3rEm) (full version)
+* [Building Habits](https://www.youtube.com/playlist?list=PL8N8j2e7RpPnpqbISqi1SJ9_wrnNU3rEm) (full version) by GM Aman Hambleton
+* [LoneWolf League (30+30 games)](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MCYu9m5ji2tJgIoU7JMHkD9) by IM John Bartholomew
 
 ### Videos
 
