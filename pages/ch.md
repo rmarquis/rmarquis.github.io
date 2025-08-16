@@ -48,6 +48,7 @@ Courses:
 Complete implementations:
 * [A Chess Engine in Go](https://www.youtube.com/playlist?list=PLftcy-r3mehgu4gikLTFoI1CXh2bHm3rf) by CaroKanns
 * [Programming an Advanced Java Chess Engine](https://www.youtube.com/playlist?list=PLQV5mozTHmacMeRzJCW_8K3qw2miYqd0c) by Logic Crazy
+* [Java Chess Engine Tutorial](https://www.youtube.com/playlist?list=PLOJzCFLZdG4zk5d-1_ah2B4kqZSeIlWtt) by Software Architecture & Design
 * [Bitboard CHESS ENGINE in C](https://www.youtube.com/playlist?list=PLmN0neTso3Jxh8ZIylk74JpwfiWNI76Cs) by Code Monkey King
 * [Programming A Chess Engine in C](https://www.youtube.com/watch?v=bGAfaepBco4&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) by Bluefever Software
 * [Code a Chess Game with Stockfish API – JavaScript Tutorial](https://www.youtube.com/watch?v=fJIsqZmQVZQ) by RobertsTech139
