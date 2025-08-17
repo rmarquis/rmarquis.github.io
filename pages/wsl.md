@@ -26,7 +26,7 @@ Install the `Windows Subsystem for Linux` from the Microsoft Store, which is [no
 
 > **Note**: You no longer should enable the "Windows Subsystem for Linux" optional component, or install the WSL kernel or WSLg MSI packages as they are no longer needed.
 >
-> Using the Store version of WSL allows you to [get updates to WSL much faster](https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/) compared to when it was a Windows component. [WSLg](https://aka.ms/wslg) is also now bundled.
+> Using the [Store version](https://aka.ms/wslstorepage) of WSL allows you to [get updates to WSL much faster](https://devblogs.microsoft.com/commandline/a-preview-of-wsl-in-the-microsoft-store-is-now-available/) compared to when it was a Windows component. [WSLg](https://aka.ms/wslg) is also now bundled.
 
 ### Update WSL
 
@@ -44,15 +44,9 @@ WSL can be installed with Ubuntu as a default distribution (`wsl.exe --install`)
 
 It can also be used with any [custom Linux distribution](https://learn.microsoft.com/en-us/windows/wsl/build-custom-distro).
 
-We will install [Arch Linux](https://archlinux.org/) as a custom [WSL distribution launcher]() package.
-
 ### Install Arch Linux
 
-Download and extract the latest online installer `Arch_Online.zip` archive from the [ArchWSL](https://git.io/archwsl) project, for example in `C:\Linux\`.
-
-Run the executable:
-
-    > Arch.exe
+Refer to [Install Arch Linux on WSL](https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL) on the Arch Linux Wiki.
 
 You can check that the distribution has been installed and registered as default with WSL:
 
@@ -389,5 +383,4 @@ On Windows, umount the image:
 ### Arch Linux
 
 * [Arch Linux](https://www.archlinux.org/)
-* [Arch Linux Wiki](https://wiki.archlinux.org/)
-* [ArchWSL](https://git.io/archwsl)
+* [Install Arch Linux on WSL](https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL)
