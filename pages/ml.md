@@ -119,3 +119,11 @@ A few projects I worked on:
   * Generative AI use cases, project lifecycle, and model pre-training
   * Fine-tuning and evaluating large language models
   * Reinforcement learning and LLM-powered applications
+
+* Stanford Online [AI curriculum](https://www.youtube.com/@stanfordonline)
+  * [CS221 – Artificial Intelligence](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2), Foundations of AI: search, reasoning, planning, decision-making
+  * [CS229 – Machine Learning Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU), Supervised/unsupervised learning + deep dive into algorithms
+  * [CS230 – Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb), Neural nets, CNNs, RNNs, and best practices for deep models
+  * [CS229M - Machine Learning Theory](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh), The math and proofs behind ML
+  * [CS234 – Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX), MDPs, Q-learning, policy gradients
+  * [CS224N – NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20), Transformers, embeddings, and modern NLP architectures
