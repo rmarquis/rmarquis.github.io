@@ -12,7 +12,8 @@ You can read learn more about me on my [GitHub profile](https://github.com/rmarq
 
 * [Computer Sciences](./cs): resources for computer sciences and programming.
 * [Machine Learning](./ml): resources for machine learning.
-* [Chess](./ch): resources for chess programming
+* [Procedural Generation](./pg): resources for procedural generation.
+* [Chess](./ch): resources for chess programming.
 
 ### Guides
 
