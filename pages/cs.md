@@ -32,6 +32,7 @@ Version Control Systems:
   * [Steve's Jujutsu Tutorial](https://steveklabnik.github.io/jujutsu-tutorial/), Steve Klabnik, 2024
   * [Jujutsu For Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs), Madeleine Mortensen, July 2025
   * [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/), Kuba Martin, 2025
+  * [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 
 Software deployment:
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman, 2020
