@@ -27,6 +27,7 @@ Explainability:
 
 General
 * [Lichess.org](https://lichess.org) - Free and Open Source chess platform
+* [Chess websites, tools, videos and books](https://rentry.org/vxdsw7k5)
 
 Analysis:
 * [OpeningTree.com](https://www.openingtree.com)
