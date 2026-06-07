@@ -106,8 +106,8 @@ Neovim cheatsheet and useful resources.
 * `?patern`: search `pattern` backward.
 * `n`: search next pattern.
 * `N`: search previous pattern.
-* `*`: find next occurence of token.
-* `#`: find previous occurence of token.
+* `*`: find next occurrence of token.
+* `#`: find previous occurrence of token.
 
 ### Substitute
 
@@ -151,7 +151,7 @@ Neovim cheatsheet and useful resources.
 * `:w`: save file.
 * `:w <filename>`: save file as `<filename>`.
 * `:q`: quit.
-* `:qw`: save file and quit.
+* `:wq`: save file and quit.
 * `:q!` discard changes and quit.
 
 ### Various
@@ -165,7 +165,7 @@ Neovim cheatsheet and useful resources.
 ### Macro
 
 * `qa`: record macro `a`.
-* `q`: stop recoding macro.
+* `q`: stop recording macro.
 * `@a`: run macro `a`.
 * `@@`: run last macro again.
 

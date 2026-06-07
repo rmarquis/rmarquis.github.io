@@ -92,7 +92,7 @@ Adjust default user sudo permissions in `/etc/sudoers` using `visudo`.
     # visudo /etc/sudoers
 
 ```
-## Uncomment to allow members of group wgeel to execute any command
+## Uncomment to allow members of group wheel to execute any command
 %wheel ALL=(ALL) ALL
 ```
 

@@ -48,7 +48,7 @@ Open Source:
 * [How To Ask Questions The Smart Way](https://www.catb.org/~esr/faqs/smart-questions), Eric S. Raymond, 2001-2014
 * [How to Write a Git Commit Message](https://cbea.ms/git-commit/), Commit messages matter. Here's how to write them well, cbeams, 2014
 * [The Way Of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Unit Testing Wisdom From An Ancient Software Start-up, Alberto Savoia, 2007
-* [Tao of programmning language](https://www.mit.edu/~xela/tao.html), Geoffrey James, 1987
+* [Tao of programming language](https://www.mit.edu/~xela/tao.html), Geoffrey James, 1987
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), Michał Ży
 * [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8), Evan Czaplicki, 2023
 
@@ -60,10 +60,8 @@ Open Source:
 A curated list of awesome places to learn and/or practice algorithms.
 * [computer-science](https://github.com/ossu/computer-science), Path to a free self-taught education in Computer Science!
 * [professional-programming](https://github.com/charlax/professional-programming?tab=readme-ov-file#kubernetes), A collection of learning resources for curious software engineers
-* [the-book-of-secret-knowledge
-](https://github.com/trimstray/the-book-of-secret-knowledge), A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [coding-interview-university
-](https://github.com/jwasham/coding-interview-university), A complete computer science study plan to become a software engineer.
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university), A complete computer science study plan to become a software engineer.
 * [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses), List of Computer Science courses with video lectures.
 * [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know), A collection of (mostly) technical things every software developer should know about
 * [heig-vd-dai-course](https://github.com/heig-vd-dai-course/heig-vd-dai-course), HEIG-VD DAI Course

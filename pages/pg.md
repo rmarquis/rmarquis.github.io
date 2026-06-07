@@ -5,7 +5,7 @@ permalink: /pg
 
 ## [Home](/) >> [Computer Sciences](./cs) >> Procedural Generation
 
-Neovim cheatsheet and useful resources.
+Useful resources for procedural content generation.
 
 * TOC
 {:toc}
@@ -23,7 +23,7 @@ Neovim cheatsheet and useful resources.
 * [Polygonal Map Generation for Games](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/), Amit Patel, 2010-2025
 * [Blobs in Games: mapgen4](https://simblob.blogspot.com/search/label/mapgen4) ([GitHub](https://github.com/redblobgames/mapgen4)), Amit Patel, 2010-2025
 * [Diffclone](https://leatherbee.org/), LeatherBee, 2018-2019
-* [Around The World](https://frozenfractal.com/blog/), Frozen Factal, 2023-2025
+* [Around The World](https://frozenfractal.com/blog/), Frozen Fractal, 2023-2025
 * [Procedural Island Generation (I)](https://brashandplucky.com/2025/09/07/procedural-island-generation-i.html), [(II)](https://brashandplucky.com/2025/09/10/procedural-island-generation-ii.html), [(III)](https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html), Chema Guerra, 2025
 * [From the Devs: Improved Map Generation](https://civilization.2k.com/civ-vii/from-the-devs/map-generation/), Civilization VII Dev notes, 2025
 

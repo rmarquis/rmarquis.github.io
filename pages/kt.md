@@ -23,7 +23,7 @@ Useful resources for the Kotlin programming language.
 
 * [Kotlin in Action](https://www.manning.com/books/kotlin-in-action-second-edition), by Sebastian Aigner, Roman Elizarov, Svetlana Isakova & Dmitry Jemerov, 2nd Edition, 2024
 * [Atomic Kotlin](https://www.atomickotlin.com/), Bruce Eckel & Svetlana Isakova, 2021
-* [Kotlin Coroutines by Tutorials](https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/), Nishant Srivastava & Filip Babić, 3nd Edition, 2022
+* [Kotlin Coroutines by Tutorials](https://www.raywenderlich.com/books/kotlin-coroutines-by-tutorials/), Nishant Srivastava & Filip Babić, 3rd Edition, 2022
 * [Effective Kotlin Best practices](https://leanpub.com/effectivekotlin), Marcin Moskała, 2nd Edition, 2024
 * [Kotlin Design Patterns and Best Practices](https://www.packtpub.com/en-us/product/kotlin-design-patterns-and-best-practices-9781805121602), Alexey Soshin, 3rd Edition, 2024
 * [Data Structures and Algorithms in Kotlin](https://www.raywenderlich.com/books/data-structures-algorithms-in-kotlin/), Irina Galata & Márton Braun, 2nd Edition, 2021

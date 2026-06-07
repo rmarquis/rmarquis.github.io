@@ -6,7 +6,7 @@ layout: default
 
 Hi there 👋
 
-You can read learn more about me on my [GitHub profile](https://github.com/rmarquis).
+You can learn more about me on my [GitHub profile](https://github.com/rmarquis).
 
 ### Resources
 
