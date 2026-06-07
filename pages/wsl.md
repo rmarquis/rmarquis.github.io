@@ -16,9 +16,7 @@ Set up a WSL development environment using [Arch Linux](https://www.archlinux.or
 
 ### Enable Virtualization
 
-Ensure that virtualization is enabled in the BIOS and that the `Windows Subsystem for Linux` optional component is enabled.
-
-    > Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+Ensure that virtualization is enabled in the UEFI/BIOS settings.
 
 ### Install WSL
 
@@ -60,7 +58,7 @@ You can then run Arch Linux in WSL via the `archlinux` application from the Star
 
 Download the latest Arch Linux `.wsl` image and double-click on it to start the installation, or run:
 
-    > wsl --install --from-file C:\Users\Username\Downloads\archlinux.wsl
+    > wsl --install --from-file C:\Users\<Username>\Downloads\archlinux.wsl
 
 You can check that the distribution has been installed and registered as default with WSL:
 

@@ -18,7 +18,7 @@ You can learn more about me on my [GitHub profile](https://github.com/rmarquis).
 ### Guides
 
 * [WSL & Arch Linux](./wsl): set up a WSL development environment with Arch Linux.
-* [Shell customization](/sh): shell prompt customization with Starship.
+* [Shell customization](./sh): shell prompt customization with Starship.
 
 ### Cheat Sheets
 
