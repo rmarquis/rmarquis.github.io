@@ -34,7 +34,7 @@ To update to the latest stable version of WSL and WSLg, simply run `wsl --update
 
     > wsl --update
 
-To update to the latest pre-relase version, run instead:
+To update to the latest pre-release version, run instead:
 
     > wsl --update --pre-release
 
@@ -46,13 +46,27 @@ It can also be used with any [custom Linux distribution](https://learn.microsoft
 
 ### Install Arch Linux
 
-Refer to [Install Arch Linux on WSL](https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL) on the Arch Linux Wiki.
+Arch Linux provides an official WSL image as part of the [archlinux-wsl](https://gitlab.archlinux.org/archlinux/archlinux-wsl) project.
+
+#### Automated installation
+
+From a Windows system with WSL 2 installed, run:
+
+    > wsl --install archlinux
+
+You can then run Arch Linux in WSL via the `archlinux` application from the Start menu, or by running `wsl -d archlinux` in a Windows shell.
+
+#### Manual installation
+
+Download the latest Arch Linux `.wsl` image and double-click on it to start the installation, or run:
+
+    > wsl --install --from-file C:\Users\Username\Downloads\archlinux.wsl
 
 You can check that the distribution has been installed and registered as default with WSL:
 
     > wsl.exe -l
     Windows Subsystem for Linux Distributions:
-    Arch (Default)
+    archlinux (Default)
 
 You can launch WSL from the added Windows Terminal entry.
 
@@ -96,10 +110,22 @@ Adjust default user sudo permissions in `/etc/sudoers` using `visudo`.
 %wheel ALL=(ALL) ALL
 ```
 
-Exit and set the default user of the Arch WSL instance:
+To set a different default user than `root`, append the following to `/etc/wsl.conf`:
 
-    # exit
-    > Arch.exe config --default-user <username>
+```
+[user]
+default=username
+```
+
+> **Note**: Make sure to give your `root` user a password before you close your session. If you find yourself 'locked out', invoke `> wsl -u root` from a CMD window on the Windows host.
+
+The change will apply at the next session. To terminate your current session:
+
+    > wsl --terminate archlinux
+
+You can also set the default user with:
+
+    > wsl --manage archlinux --set-default-user <username>
 
 ### Configure WSL settings
 
@@ -274,12 +300,29 @@ Enable WSLg communication socket for the user:
     $ sudo ln -s /mnt/wslg/.X11-unix /tmp/.X11-unix
     $ sudo ln -s /mnt/wslg/runtime-dir/wayland-0* /run/user/1000/
 
-### Get xdg-open to open a browser on Windows from WSL
+### Open URLs in the Windows host browser
 
-In `~/.zshrc`, add:
+Install `xdg-utils` to enable opening links in your Windows host browser:
+
+    $ sudo pacman -S xdg-utils
+
+In `~/.zshrc`, set the browser environment variable:
 
 ```
 export BROWSER="pwsh.exe /C start"
+```
+
+### GPU acceleration
+
+To enable GPU video accelerated rendering in WSL, install the following packages:
+
+    $ sudo pacman -S mesa vulkan-dzn vulkan-icd-loader
+
+In `~/.zshrc`, set the driver environment variables:
+
+```
+export GALLIUM_DRIVER=d3d12
+export LIBVA_DRIVER_NAME=d3d12
 ```
 
 ## Troubleshooting
@@ -340,12 +383,20 @@ Replace the duplicated files with symlinks:
 
 WSL does not release disk space back to the host OS automatically.
 
-To automatically shrinks the WSL virtual hard disk (VHD) as you use it, create a `.wslconfig` file in `C:\Users\<UserName>\`:
+Ensure `sparseVhd=true` is set in your global `.wslconfig` (see [Global settings](#global-settings) above). This automatically shrinks the WSL virtual hard disk (VHD) as you use it.
 
-```
-[experimental]
-sparseVhd=true
-```
+You can also manually compact the VHD from an elevated PowerShell prompt:
+
+    > wsl --shutdown
+    > Optimize-VHD -Path "C:\Users\<Username>\AppData\Local\Packages\...\LocalState\ext4.vhdx" -Mode Full
+
+### User session errors or early crashes
+
+If you encounter user session errors at startup or unexpected crashes, enable session lingering for your user:
+
+    # loginctl enable-linger <username>
+
+This helps ensure the systemd user session starts correctly and populates `/run/user/$UID`.
 
 ### Recover from catastrophic failure
 
