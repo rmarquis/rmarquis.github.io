@@ -49,15 +49,13 @@ Open Source:
 * [How to Write a Git Commit Message](https://cbea.ms/git-commit/), Commit messages matter. Here's how to write them well, cbeams, 2014
 * [The Way Of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Unit Testing Wisdom From An Ancient Software Start-up, Alberto Savoia, 2007
 * [Tao of programming language](https://www.mit.edu/~xela/tao.html), Geoffrey James, 1987
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), Michał Ży
 * [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8), Evan Czaplicki, 2023
 
 ### Various
 
 * [On the Prehistory of QWERTY](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf), Koichi Yasuoka and Motoko Yasukua, ZINBUN 2009/2010 No.42
 * [Awesome list](https://github.com/sindresorhus/awesome), Curated list of awesome lists
-* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms), About
-A curated list of awesome places to learn and/or practice algorithms.
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms), A curated list of awesome places to learn and/or practice algorithms.
 * [computer-science](https://github.com/ossu/computer-science), Path to a free self-taught education in Computer Science!
 * [professional-programming](https://github.com/charlax/professional-programming?tab=readme-ov-file#kubernetes), A collection of learning resources for curious software engineers
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
