@@ -23,9 +23,7 @@ You can learn more about me on my [GitHub profile](https://github.com/rmarquis).
 ### Cheat Sheets
 
 * [Zsh graphical cheat sheet](https://docs.google.com/spreadsheets/d/1hAU7Sbczpeok6jt2neGdcCI-HnvWIGtNbA9zvIcLj2w/)
-* [Neovim graphical cheat sheet](https://docs.google.com/spreadsheets/d/1_ya0g5C4OrGfZbqiJFVds9D3cNlQYsYgva61gSjRrGY/)
-* [Neovim](/nv): set up Neovim and quick reference.
-* [VimTutor](/vi): vim tutorial summary.
+* [Escape Key](https://rmarquis.github.io/escapekey/): interactive Vim/Neovim reference and cheat sheet.
 
 ### Certifications
 
