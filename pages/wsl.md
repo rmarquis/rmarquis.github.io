@@ -5,7 +5,7 @@ permalink: /wsl
 
 ## [Home](/) >> WSL & Arch Linux
 
-Set up a WSL development environment using [Arch Linux](https://www.archlinux.org/).
+A step-by-step guide to setting up a WSL 2 development environment using [Arch Linux](https://www.archlinux.org/).
 
 * TOC
 {:toc}

@@ -71,33 +71,14 @@ See [Certifications](./ct) for AI, ML, DL, NLP, GANs and LLMs certificates.
 
 A few projects I worked on:
 
-* Predictive models and anomaly detection
-  * Implementation of various models using classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM.
-  * Elaboration of clustering algorithms for content-based and collaborative filtering recommender system.
-  * Development of an Anomaly detection system using simple multivariate Gaussian.
-
-* Music generation
-  * Sequence model implementation of a Recurrent Neural Network to generate music using an LSTM network algorithm trained on a corpus of Jazz music.
-
-* Speech recognition of a trigger word
-  * Spectrogram analysis of audio recordings to make predictions from datasets.
-  * Training of a trigger word detection model augmented with attention mechanism.
-
-* Object detection and Face recognition
-  * Implementation of a Convolutional Neural Network to detect various vehicles classes in pictures using the YOLO bounding-box model.
-  * Face recognition using Convolutional Neural Network with triplet loss for fast performance.
-
-* Sentiment analysis and Duplicate detection
-  * Implementation of Natural Language Process to gauge sentiment using Siamese networks in a review platform.
-  * Recognition of question duplicates using Siamese networks.
-
-* Text summarization and Question answering
-  * Implementation of Natural Language Processing Transformer architecture to create a tool that generates text summaries.
-  * Implementation of a chatbot using transfer learning and models like T5, GPT and BERT to answer a given question.
-
-* Art generation through style transfer and Generative Adversarial Network
-  * Implementation of a Neural Style Transfer algorithm to generate novel artistic images, using a pretrained VGG-19 ConvNet.
-  * Implementation of a tool using CycleGAN model to convert pictures of horses into zebras, and vice-versa.
+* Classification and recommender systems (KNN, decision trees, SVM, collaborative filtering)
+* Anomaly detection with multivariate Gaussian models
+* Music generation with LSTM networks
+* Trigger-word detection with spectrograms and attention
+* Object detection and face recognition (CNNs, YOLO, triplet loss)
+* Sentiment analysis and duplicate detection with Siamese networks
+* Text summarization and question answering with Transformers, T5, GPT, and BERT
+* Neural style transfer and CycleGAN image generation
 
 
 ### Useful Courses
