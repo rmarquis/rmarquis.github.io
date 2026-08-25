@@ -29,28 +29,28 @@ See [Certifications](./ct) for AI, ML, DL, NLP, GANs and LLMs certificates.
 
 ##### Foundations
 
-* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/), Mohri, Rostamizadeh & Talwalkar — The mathematical backbone of ML: algorithms, theory, and how models actually learn.
-* [Understanding Deep Learning](https://udlbook.github.io/udlbook/), Prince, 2023 — Neural networks explained visually and intuitively, from basics to modern architectures.
-* [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016 — The definitive deep learning reference, written by the researchers who shaped the field.
-* [Introduction to Machine Learning Systems](https://mlsysbook.ai/vol1/), Reddi, 2024 — How to design and build ML systems that work in production, not just in notebooks.
-* [Algorithms for Optimization](https://algorithmsbook.com/), Kochenderfer & Wheeler — The math behind how models improve: gradient methods, search, and decision-making.
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/), Mohri, Rostamizadeh & Talwalkar. The mathematical backbone of ML: algorithms, theory, and how models actually learn.
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/), Prince, 2023. Neural networks explained visually and intuitively, from basics to modern architectures.
+* [Deep Learning](http://www.deeplearningbook.org/), Goodfellow, Bengio & Courville, 2016. The definitive deep learning reference, written by the researchers who shaped the field.
+* [Introduction to Machine Learning Systems](https://mlsysbook.ai/vol1/), Reddi, 2024. How to design and build ML systems that work in production, not just in notebooks.
+* [Algorithms for Optimization](https://algorithmsbook.com/), Kochenderfer & Wheeler. The math behind how models improve: gradient methods, search, and decision-making.
 
 ##### Reinforcement Learning
 
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), Sutton & Barto, 2018 — The classic RL textbook: how agents learn to make decisions through trial and reward.
-* [Distributional Reinforcement Learning](https://www.distributional-rl.org/), Bellemare, Dabney & Rowland, 2023 — Goes beyond average rewards to model the full distribution of outcomes.
-* [Multi-Agent Reinforcement Learning](https://www.marl-book.com/), Albrecht et al., 2024 — How multiple AI agents learn, compete, and cooperate in shared environments.
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html), Sutton & Barto, 2018. The classic RL textbook: how agents learn to make decisions through trial and reward.
+* [Distributional Reinforcement Learning](https://www.distributional-rl.org/), Bellemare, Dabney & Rowland, 2023. Goes beyond average rewards to model the full distribution of outcomes.
+* [Multi-Agent Reinforcement Learning](https://www.marl-book.com/), Albrecht et al., 2024. How multiple AI agents learn, compete, and cooperate in shared environments.
 
 ##### Probabilistic ML
 
-* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html), Murphy, 2022 — ML through the lens of probability: uncertainty, inference, and Bayesian thinking.
-* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html), Murphy, 2023 — Deep dives into probabilistic models, approximate inference, and generative methods.
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html), Murphy, 2022. ML through the lens of probability: uncertainty, inference, and Bayesian thinking.
+* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html), Murphy, 2023. Deep dives into probabilistic models, approximate inference, and generative methods.
 * [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Murphy, 2012
 
 ##### Responsible & Agentic AI
 
-* [Agents in the Long Game of AI](https://lnkd.in/dk6YVU66), McShane, Nirenburg & English, 2024 — How to build AI agents that are trustworthy, hybrid, and designed for long-term reliability.
-* [Fairness and Machine Learning](https://fairmlbook.org/), Barocas, Hardt & Narayanan — Where ML meets society: bias, discrimination, and how to build more equitable systems.
+* [Agents in the Long Game of AI](https://lnkd.in/dk6YVU66), McShane, Nirenburg & English, 2024. How to build AI agents that are trustworthy, hybrid, and designed for long-term reliability.
+* [Fairness and Machine Learning](https://fairmlbook.org/), Barocas, Hardt & Narayanan. Where ML meets society: bias, discrimination, and how to build more equitable systems.
 
 ##### Statistics & Mathematics
 
@@ -71,14 +71,14 @@ See [Certifications](./ct) for AI, ML, DL, NLP, GANs and LLMs certificates.
 
 A few projects I worked on:
 
-* Classification and recommender systems (KNN, decision trees, SVM, collaborative filtering)
-* Anomaly detection with multivariate Gaussian models
-* Music generation with LSTM networks
-* Trigger-word detection with spectrograms and attention
-* Object detection and face recognition (CNNs, YOLO, triplet loss)
-* Sentiment analysis and duplicate detection with Siamese networks
-* Text summarization and question answering with Transformers, T5, GPT, and BERT
-* Neural style transfer and CycleGAN image generation
+* **Classification and recommender systems**: Built and compared KNN, decision trees, and SVM classifiers, and implemented collaborative filtering for recommendations.
+* **Anomaly detection**: Detected anomalies using multivariate Gaussian models.
+* **Music generation**: Trained an LSTM network on a jazz corpus to generate music sequences.
+* **Trigger-word detection**: Built a speech recognition model from spectrograms with an attention mechanism.
+* **Object detection and face recognition**: Implemented CNN-based vehicle detection with YOLO and face recognition with triplet loss.
+* **Sentiment analysis and duplicate detection**: Used Siamese networks for review sentiment and duplicate question detection.
+* **Text summarization and question answering**: Fine-tuned Transformer-based models (T5, GPT, BERT) for summarization and chatbot QA.
+* **Neural style transfer and CycleGAN**: Generated artistic images with neural style transfer and image-to-image translation with CycleGAN.
 
 
 ### Useful Courses

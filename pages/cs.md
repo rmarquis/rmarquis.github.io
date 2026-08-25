@@ -25,9 +25,9 @@ Computer Sciences:
 * [The Imposter's Handbook](https://bigmachine.io/), Rob Conery, 2022, 2nd ed.
 
 Version Control Systems:
-* [Git](https://git-scm.com/) — Official documentation.
+* [Git](https://git-scm.com/): Official documentation.
   * [Pro Git](https://git-scm.com/book/en/v2), Scott Chacon & Ben Straub, 2014
-* [Jujutsu](https://jj-vcs.github.io/) — A version control system with a Git-compatible backend.
+* [Jujutsu](https://jj-vcs.github.io/): A version control system with a Git-compatible backend.
   * [Essay - jj init](https://v5.chriskrycho.com/essays/jj-init/), Chris Krycho, 2024
   * [Steve's Jujutsu Tutorial](https://steveklabnik.github.io/jujutsu-tutorial/), Steve Klabnik, 2024
   * [Jujutsu For Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs), Madeleine Mortensen, 2025
@@ -46,8 +46,8 @@ Open Source:
 ### General
 
 * [How To Ask Questions The Smart Way](https://www.catb.org/~esr/faqs/smart-questions), Eric S. Raymond, 2001–2014
-* [How to Write a Git Commit Message](https://cbea.ms/git-commit/), cbeams, 2014 — Why commit messages matter and how to write them well.
-* [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Alberto Savoia, 2007 — Unit testing wisdom from an ancient software start-up.
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit/), cbeams, 2014. Why commit messages matter and how to write them well.
+* [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf), Alberto Savoia, 2007. Unit testing wisdom from an ancient software start-up.
 * [Tao of Programming](https://www.mit.edu/~xela/tao.html), Geoffrey James, 1987
 * [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8), Evan Czaplicki, 2023
 
